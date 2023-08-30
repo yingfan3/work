@@ -1,0 +1,1308 @@
+HELIX    1   1 LAA A    2  LAA A   30  1                                  29
+MODEL        1
+ATOM      1  N   ALA A   1      -0.547   1.363  -0.000  1.00  0.00           N
+ATOM      2  CA  ALA A   1       0.000   0.000  -0.000  1.00  0.00           C
+ATOM      3  C   ALA A   1       1.504  -0.000  -0.000  1.00  0.00           C
+ATOM      4  O   ALA A   1       2.087  -1.017   0.429  1.00  0.00           O
+ATOM      5  CB  ALA A   1      -0.557  -0.809  -1.156  1.00  0.00           C
+HETATM    6  N   LAA A   2       2.150   1.018  -0.467  1.00  0.00           N
+HETATM    7  CD1 LAA A   2       3.560   1.141  -0.394  1.00  0.00           C
+HETATM    8  CG  LAA A   2       3.900   2.447   0.254  1.00  0.00           C
+HETATM    9  NB  LAA A   2       3.466   2.508   1.688  1.00  0.00           N
+HETATM   10  CA  LAA A   2       4.274   1.732   2.587  1.00  0.00           C
+HETATM   11  C   LAA A   2       3.672   0.793   3.502  1.00  0.00           C
+HETATM   12  O   LAA A   2       4.358   0.171   4.319  1.00  0.00           O
+HETATM   13  CE1 LAA A   2       4.156   1.095  -1.762  1.00  0.00           C
+HETATM   14  SG  LAA A   2       3.018   3.980   2.241  1.00  0.00           S
+HETATM   15  OD1 LAA A   2       1.969   4.458   1.448  1.00  0.00           O
+HETATM   16  OD2 LAA A   2       2.845   3.816   3.645  1.00  0.00           O
+HETATM   17  CD2 LAA A   2       4.426   4.972   2.056  1.00  0.00           C
+HETATM   18  CE2 LAA A   2       5.369   5.008   3.014  1.00  0.00           C
+HETATM   19  CE3 LAA A   2       4.595   5.762   0.890  1.00  0.00           C
+HETATM   20  CZ1 LAA A   2       6.536   5.776   2.803  1.00  0.00           C
+HETATM   21  CZ2 LAA A   2       5.711   6.515   0.718  1.00  0.00           C
+HETATM   22  CH  LAA A   2       6.672   6.474   1.665  1.00  0.00           C
+HETATM   23 Cl17 LAA A   2       8.095   7.489   1.433  1.00  0.00          Cl
+ATOM     24  N   ALA A   3       2.377   0.539   3.527  1.00  0.00           N
+ATOM     25  CA  ALA A   3       1.823  -0.355   4.483  1.00  0.00           C
+ATOM     26  C   ALA A   3       2.122  -1.788   4.247  1.00  0.00           C
+ATOM     27  O   ALA A   3       2.060  -2.565   5.222  1.00  0.00           O
+ATOM     28  CB  ALA A   3       0.351  -0.150   4.627  1.00  0.00           C
+HETATM   29  N   LAA A   4       2.399  -2.203   3.054  1.00  0.00           N
+HETATM   30  CD1 LAA A   4       2.808  -3.529   2.770  1.00  0.00           C
+HETATM   31  CG  LAA A   4       4.098  -3.488   2.010  1.00  0.00           C
+HETATM   32  NB  LAA A   4       5.229  -2.936   2.826  1.00  0.00           N
+HETATM   33  CA  LAA A   4       5.728  -3.834   3.830  1.00  0.00           C
+HETATM   34  C   LAA A   4       5.872  -3.407   5.201  1.00  0.00           C
+HETATM   35  O   LAA A   4       6.359  -4.155   6.053  1.00  0.00           O
+HETATM   36  CE1 LAA A   4       1.772  -4.227   1.952  1.00  0.00           C
+HETATM   37  SG  LAA A   4       6.367  -2.100   2.004  1.00  0.00           S
+HETATM   38  OD1 LAA A   4       5.751  -1.035   1.339  1.00  0.00           O
+HETATM   39  OD2 LAA A   4       7.408  -1.859   2.946  1.00  0.00           O
+HETATM   40  CD2 LAA A   4       7.018  -3.235   0.867  1.00  0.00           C
+HETATM   41  CE2 LAA A   4       8.019  -4.060   1.220  1.00  0.00           C
+HETATM   42  CE3 LAA A   4       6.501  -3.300  -0.452  1.00  0.00           C
+HETATM   43  CZ1 LAA A   4       8.483  -5.018   0.292  1.00  0.00           C
+HETATM   44  CZ2 LAA A   4       6.979  -4.209  -1.339  1.00  0.00           C
+HETATM   45  CH  LAA A   4       7.934  -5.072  -0.932  1.00  0.00           C
+HETATM   46 Cl17 LAA A   4       8.561  -6.219  -2.116  1.00  0.00          Cl
+ATOM     47  N   ALA A   5       5.499  -2.215   5.628  1.00  0.00           N
+ATOM     48  CA  ALA A   5       5.709  -1.820   6.977  1.00  0.00           C
+ATOM     49  C   ALA A   5       4.823  -2.477   7.968  1.00  0.00           C
+ATOM     50  O   ALA A   5       5.210  -2.527   9.153  1.00  0.00           O
+ATOM     51  CB  ALA A   5       5.640  -0.336   7.124  1.00  0.00           C
+HETATM   52  N   LAA A   6       3.674  -2.942   7.599  1.00  0.00           N
+HETATM   53  CD1 LAA A   6       2.826  -3.683   8.459  1.00  0.00           C
+HETATM   54  CG  LAA A   6       2.479  -4.982   7.798  1.00  0.00           C
+HETATM   55  NB  LAA A   6       3.671  -5.874   7.621  1.00  0.00           N
+HETATM   56  CA  LAA A   6       4.132  -6.494   8.832  1.00  0.00           C
+HETATM   57  C   LAA A   6       5.519  -6.418   9.223  1.00  0.00           C
+HETATM   58  O   LAA A   6       5.930  -7.002  10.229  1.00  0.00           O
+HETATM   59  CE1 LAA A   6       1.575  -2.918   8.739  1.00  0.00           C
+HETATM   60  SG  LAA A   6       3.659  -6.837   6.301  1.00  0.00           S
+HETATM   61  OD1 LAA A   6       3.543  -6.036   5.160  1.00  0.00           O
+HETATM   62  OD2 LAA A   6       4.773  -7.709   6.462  1.00  0.00           O
+HETATM   63  CD2 LAA A   6       2.254  -7.835   6.492  1.00  0.00           C
+HETATM   64  CE2 LAA A   6       2.315  -8.975   7.202  1.00  0.00           C
+HETATM   65  CE3 LAA A   6       1.024  -7.458   5.894  1.00  0.00           C
+HETATM   66  CZ1 LAA A   6       1.138  -9.731   7.394  1.00  0.00           C
+HETATM   67  CZ2 LAA A   6      -0.090  -8.213   6.067  1.00  0.00           C
+HETATM   68  CH  LAA A   6      -0.013  -9.314   6.845  1.00  0.00           C
+HETATM   69 Cl17 LAA A   6      -1.467 -10.294   7.023  1.00  0.00          Cl
+ATOM     70  N   ALA A   7       6.422  -5.733   8.547  1.00  0.00           N
+ATOM     71  CA  ALA A   7       7.788  -5.730   8.940  1.00  0.00           C
+ATOM     72  C   ALA A   7       8.085  -4.953  10.168  1.00  0.00           C
+ATOM     73  O   ALA A   7       9.117  -5.244  10.806  1.00  0.00           O
+ATOM     74  CB  ALA A   7       8.674  -5.290   7.822  1.00  0.00           C
+HETATM   75  N   LAA A   8       7.304  -3.986  10.526  1.00  0.00           N
+HETATM   76  CD1 LAA A   8       7.456  -3.278  11.743  1.00  0.00           C
+HETATM   77  CG  LAA A   8       6.158  -3.312  12.490  1.00  0.00           C
+HETATM   78  NB  LAA A   8       5.785  -4.696  12.931  1.00  0.00           N
+HETATM   79  CA  LAA A   8       6.555  -5.194  14.037  1.00  0.00           C
+HETATM   80  C   LAA A   8       7.197  -6.484  13.971  1.00  0.00           C
+HETATM   81  O   LAA A   8       7.806  -6.943  14.942  1.00  0.00           O
+HETATM   82  CE1 LAA A   8       7.837  -1.860  11.473  1.00  0.00           C
+HETATM   83  SG  LAA A   8       4.185  -5.025  12.986  1.00  0.00           S
+HETATM   84  OD1 LAA A   8       3.638  -4.810  11.716  1.00  0.00           O
+HETATM   85  OD2 LAA A   8       4.086  -6.302  13.609  1.00  0.00           O
+HETATM   86  CD2 LAA A   8       3.537  -3.895  14.129  1.00  0.00           C
+HETATM   87  CE2 LAA A   8       3.539  -4.174  15.444  1.00  0.00           C
+HETATM   88  CE3 LAA A   8       2.992  -2.663  13.685  1.00  0.00           C
+HETATM   89  CZ1 LAA A   8       3.065  -3.205  16.355  1.00  0.00           C
+HETATM   90  CZ2 LAA A   8       2.515  -1.756  14.574  1.00  0.00           C
+HETATM   91  CH  LAA A   8       2.597  -2.035  15.892  1.00  0.00           C
+HETATM   92 Cl17 LAA A   8       1.938  -0.854  17.023  1.00  0.00          Cl
+ATOM     93  N   ALA A   9       7.179  -7.245  12.893  1.00  0.00           N
+ATOM     94  CA  ALA A   9       7.781  -8.532  12.892  1.00  0.00           C
+ATOM     95  C   ALA A   9       9.264  -8.531  12.893  1.00  0.00           C
+ATOM     96  O   ALA A   9       9.848  -9.548  13.321  1.00  0.00           O
+ATOM     97  CB  ALA A   9       7.265  -9.372  11.771  1.00  0.00           C
+HETATM   98  N   LAA A  10       9.909  -7.512  12.427  1.00  0.00           N
+HETATM   99  CD1 LAA A  10      11.319  -7.388  12.501  1.00  0.00           C
+HETATM  100  CG  LAA A  10      11.658  -6.081  13.150  1.00  0.00           C
+HETATM  101  NB  LAA A  10      11.222  -6.021  14.584  1.00  0.00           N
+HETATM  102  CA  LAA A  10      12.030  -6.797  15.483  1.00  0.00           C
+HETATM  103  C   LAA A  10      11.429  -7.738  16.397  1.00  0.00           C
+HETATM  104  O   LAA A  10      12.114  -8.359  17.214  1.00  0.00           O
+HETATM  105  CE1 LAA A  10      11.915  -7.432  11.133  1.00  0.00           C
+HETATM  106  SG  LAA A  10      10.772  -4.551  15.138  1.00  0.00           S
+HETATM  107  OD1 LAA A  10       9.724  -4.073  14.344  1.00  0.00           O
+HETATM  108  OD2 LAA A  10      10.598  -4.716  16.541  1.00  0.00           O
+HETATM  109  CD2 LAA A  10      12.179  -3.557  14.954  1.00  0.00           C
+HETATM  110  CE2 LAA A  10      13.122  -3.520  15.912  1.00  0.00           C
+HETATM  111  CE3 LAA A  10      12.348  -2.767  13.789  1.00  0.00           C
+HETATM  112  CZ1 LAA A  10      14.288  -2.752  15.703  1.00  0.00           C
+HETATM  113  CZ2 LAA A  10      13.463  -2.012  13.618  1.00  0.00           C
+HETATM  114  CH  LAA A  10      14.424  -2.053  14.566  1.00  0.00           C
+HETATM  115 Cl17 LAA A  10      15.846  -1.037  14.335  1.00  0.00          Cl
+ATOM    116  N   ALA A  11      10.134  -7.993  16.421  1.00  0.00           N
+ATOM    117  CA  ALA A  11       9.580  -8.888  17.376  1.00  0.00           C
+ATOM    118  C   ALA A  11       9.881 -10.321  17.139  1.00  0.00           C
+ATOM    119  O   ALA A  11       9.819 -11.098  18.114  1.00  0.00           O
+ATOM    120  CB  ALA A  11       8.108  -8.685  17.520  1.00  0.00           C
+HETATM  121  N   LAA A  12      10.159 -10.734  15.946  1.00  0.00           N
+HETATM  122  CD1 LAA A  12      10.569 -12.061  15.662  1.00  0.00           C
+HETATM  123  CG  LAA A  12      11.860 -12.017  14.903  1.00  0.00           C
+HETATM  124  NB  LAA A  12      12.990 -11.465  15.720  1.00  0.00           N
+HETATM  125  CA  LAA A  12      13.489 -12.363  16.724  1.00  0.00           C
+HETATM  126  C   LAA A  12      13.632 -11.937  18.095  1.00  0.00           C
+HETATM  127  O   LAA A  12      14.119 -12.684  18.947  1.00  0.00           O
+HETATM  128  CE1 LAA A  12       9.534 -12.759  14.843  1.00  0.00           C
+HETATM  129  SG  LAA A  12      14.128 -10.628  14.899  1.00  0.00           S
+HETATM  130  OD1 LAA A  12      13.511  -9.562  14.235  1.00  0.00           O
+HETATM  131  OD2 LAA A  12      15.168 -10.386  15.842  1.00  0.00           O
+HETATM  132  CD2 LAA A  12      14.780 -11.761  13.762  1.00  0.00           C
+HETATM  133  CE2 LAA A  12      15.783 -12.585  14.115  1.00  0.00           C
+HETATM  134  CE3 LAA A  12      14.265 -11.826  12.443  1.00  0.00           C
+HETATM  135  CZ1 LAA A  12      16.247 -13.542  13.187  1.00  0.00           C
+HETATM  136  CZ2 LAA A  12      14.743 -12.734  11.555  1.00  0.00           C
+HETATM  137  CH  LAA A  12      15.700 -13.596  11.962  1.00  0.00           C
+HETATM  138 Cl17 LAA A  12      16.328 -14.741  10.779  1.00  0.00          Cl
+ATOM    139  N   ALA A  13      13.257 -10.745  18.523  1.00  0.00           N
+ATOM    140  CA  ALA A  13      13.466 -10.351  19.872  1.00  0.00           C
+ATOM    141  C   ALA A  13      12.580 -11.009  20.862  1.00  0.00           C
+ATOM    142  O   ALA A  13      12.966 -11.060  22.047  1.00  0.00           O
+ATOM    143  CB  ALA A  13      13.395  -8.867  20.020  1.00  0.00           C
+HETATM  144  N   LAA A  14      11.432 -11.475  20.492  1.00  0.00           N
+HETATM  145  CD1 LAA A  14      10.584 -12.218  21.351  1.00  0.00           C
+HETATM  146  CG  LAA A  14      10.239 -13.516  20.688  1.00  0.00           C
+HETATM  147  NB  LAA A  14      11.432 -14.408  20.513  1.00  0.00           N
+HETATM  148  CA  LAA A  14      11.893 -15.028  21.723  1.00  0.00           C
+HETATM  149  C   LAA A  14      13.279 -14.951  22.115  1.00  0.00           C
+HETATM  150  O   LAA A  14      13.690 -15.535  23.121  1.00  0.00           O
+HETATM  151  CE1 LAA A  14       9.332 -11.454  21.630  1.00  0.00           C
+HETATM  152  SG  LAA A  14      11.421 -15.370  19.192  1.00  0.00           S
+HETATM  153  OD1 LAA A  14      11.305 -14.568  18.051  1.00  0.00           O
+HETATM  154  OD2 LAA A  14      12.537 -16.240  19.353  1.00  0.00           O
+HETATM  155  CD2 LAA A  14      10.017 -16.369  19.381  1.00  0.00           C
+HETATM  156  CE2 LAA A  14      10.079 -17.510  20.090  1.00  0.00           C
+HETATM  157  CE3 LAA A  14       8.788 -15.993  18.783  1.00  0.00           C
+HETATM  158  CZ1 LAA A  14       8.903 -18.267  20.281  1.00  0.00           C
+HETATM  159  CZ2 LAA A  14       7.674 -16.749  18.954  1.00  0.00           C
+HETATM  160  CH  LAA A  14       7.752 -17.850  19.732  1.00  0.00           C
+HETATM  161 Cl17 LAA A  14       6.298 -18.832  19.909  1.00  0.00          Cl
+ATOM    162  N   ALA A  15      14.182 -14.264  21.440  1.00  0.00           N
+ATOM    163  CA  ALA A  15      15.547 -14.260  21.834  1.00  0.00           C
+ATOM    164  C   ALA A  15      15.843 -13.484  23.063  1.00  0.00           C
+ATOM    165  O   ALA A  15      16.875 -13.774  23.701  1.00  0.00           O
+ATOM    166  CB  ALA A  15      16.433 -13.818  20.717  1.00  0.00           C
+HETATM  167  N   LAA A  16      15.061 -12.518  23.420  1.00  0.00           N
+HETATM  168  CD1 LAA A  16      15.212 -11.810  24.638  1.00  0.00           C
+HETATM  169  CG  LAA A  16      13.913 -11.845  25.385  1.00  0.00           C
+HETATM  170  NB  LAA A  16      13.541 -13.230  25.825  1.00  0.00           N
+HETATM  171  CA  LAA A  16      14.310 -13.728  26.930  1.00  0.00           C
+HETATM  172  C   LAA A  16      14.954 -15.018  26.864  1.00  0.00           C
+HETATM  173  O   LAA A  16      15.563 -15.476  27.835  1.00  0.00           O
+HETATM  174  CE1 LAA A  16      15.591 -10.391  24.369  1.00  0.00           C
+HETATM  175  SG  LAA A  16      11.941 -13.561  25.878  1.00  0.00           S
+HETATM  176  OD1 LAA A  16      11.395 -13.346  24.608  1.00  0.00           O
+HETATM  177  OD2 LAA A  16      11.843 -14.838  26.500  1.00  0.00           O
+HETATM  178  CD2 LAA A  16      11.291 -12.432  27.021  1.00  0.00           C
+HETATM  179  CE2 LAA A  16      11.293 -12.712  28.336  1.00  0.00           C
+HETATM  180  CE3 LAA A  16      10.746 -11.201  26.578  1.00  0.00           C
+HETATM  181  CZ1 LAA A  16      10.817 -11.744  29.247  1.00  0.00           C
+HETATM  182  CZ2 LAA A  16      10.267 -10.294  27.467  1.00  0.00           C
+HETATM  183  CH  LAA A  16      10.349 -10.575  28.785  1.00  0.00           C
+HETATM  184 Cl17 LAA A  16       9.687  -9.395  29.916  1.00  0.00          Cl
+ATOM    185  N   ALA A  17      14.937 -15.778  25.785  1.00  0.00           N
+ATOM    186  CA  ALA A  17      15.541 -17.065  25.785  1.00  0.00           C
+ATOM    187  C   ALA A  17      17.024 -17.062  25.786  1.00  0.00           C
+ATOM    188  O   ALA A  17      17.608 -18.078  26.214  1.00  0.00           O
+ATOM    189  CB  ALA A  17      15.027 -17.904  24.662  1.00  0.00           C
+HETATM  190  N   LAA A  18      17.668 -16.042  25.321  1.00  0.00           N
+HETATM  191  CD1 LAA A  18      19.078 -15.917  25.396  1.00  0.00           C
+HETATM  192  CG  LAA A  18      19.415 -14.610  26.047  1.00  0.00           C
+HETATM  193  NB  LAA A  18      18.978 -14.551  27.481  1.00  0.00           N
+HETATM  194  CA  LAA A  18      19.786 -15.327  28.379  1.00  0.00           C
+HETATM  195  C   LAA A  18      19.186 -16.269  29.292  1.00  0.00           C
+HETATM  196  O   LAA A  18      19.871 -16.890  30.109  1.00  0.00           O
+HETATM  197  CE1 LAA A  18      19.675 -15.959  24.029  1.00  0.00           C
+HETATM  198  SG  LAA A  18      18.526 -13.082  28.034  1.00  0.00           S
+HETATM  199  OD1 LAA A  18      17.478 -12.604  27.240  1.00  0.00           O
+HETATM  200  OD2 LAA A  18      18.352 -13.248  29.438  1.00  0.00           O
+HETATM  201  CD2 LAA A  18      19.933 -12.086  27.852  1.00  0.00           C
+HETATM  202  CE2 LAA A  18      20.875 -12.049  28.811  1.00  0.00           C
+HETATM  203  CE3 LAA A  18      20.102 -11.295  26.687  1.00  0.00           C
+HETATM  204  CZ1 LAA A  18      22.040 -11.280  28.603  1.00  0.00           C
+HETATM  205  CZ2 LAA A  18      21.216 -10.539  26.518  1.00  0.00           C
+HETATM  206  CH  LAA A  18      22.177 -10.580  27.466  1.00  0.00           C
+HETATM  207 Cl17 LAA A  18      23.597  -9.562  27.237  1.00  0.00          Cl
+ATOM    208  N   ALA A  19      17.891 -16.525  29.316  1.00  0.00           N
+ATOM    209  CA  ALA A  19      17.337 -17.421  30.269  1.00  0.00           C
+ATOM    210  C   ALA A  19      17.639 -18.854  30.032  1.00  0.00           C
+ATOM    211  O   ALA A  19      17.578 -19.631  31.006  1.00  0.00           O
+ATOM    212  CB  ALA A  19      15.865 -17.220  30.412  1.00  0.00           C
+HETATM  213  N   LAA A  20      17.919 -19.266  28.839  1.00  0.00           N
+HETATM  214  CD1 LAA A  20      18.331 -20.592  28.554  1.00  0.00           C
+HETATM  215  CG  LAA A  20      19.622 -20.547  27.796  1.00  0.00           C
+HETATM  216  NB  LAA A  20      20.751 -19.994  28.614  1.00  0.00           N
+HETATM  217  CA  LAA A  20      21.250 -20.892  29.618  1.00  0.00           C
+HETATM  218  C   LAA A  20      21.392 -20.466  30.989  1.00  0.00           C
+HETATM  219  O   LAA A  20      21.879 -21.214  31.841  1.00  0.00           O
+HETATM  220  CE1 LAA A  20      17.297 -21.290  27.734  1.00  0.00           C
+HETATM  221  SG  LAA A  20      21.888 -19.155  27.795  1.00  0.00           S
+HETATM  222  OD1 LAA A  20      21.271 -18.090  27.130  1.00  0.00           O
+HETATM  223  OD2 LAA A  20      22.928 -18.913  28.738  1.00  0.00           O
+HETATM  224  CD2 LAA A  20      22.543 -20.287  26.657  1.00  0.00           C
+HETATM  225  CE2 LAA A  20      23.546 -21.110  27.010  1.00  0.00           C
+HETATM  226  CE3 LAA A  20      22.028 -20.352  25.337  1.00  0.00           C
+HETATM  227  CZ1 LAA A  20      24.012 -22.066  26.081  1.00  0.00           C
+HETATM  228  CZ2 LAA A  20      22.508 -21.258  24.449  1.00  0.00           C
+HETATM  229  CH  LAA A  20      23.465 -22.120  24.857  1.00  0.00           C
+HETATM  230 Cl17 LAA A  20      24.096 -23.264  23.673  1.00  0.00          Cl
+ATOM    231  N   ALA A  21      21.016 -19.276  31.417  1.00  0.00           N
+ATOM    232  CA  ALA A  21      21.223 -18.881  32.767  1.00  0.00           C
+ATOM    233  C   ALA A  21      20.337 -19.541  33.756  1.00  0.00           C
+ATOM    234  O   ALA A  21      20.723 -19.592  34.942  1.00  0.00           O
+ATOM    235  CB  ALA A  21      21.150 -17.398  32.916  1.00  0.00           C
+HETATM  236  N   LAA A  22      19.190 -20.008  33.385  1.00  0.00           N
+HETATM  237  CD1 LAA A  22      18.342 -20.752  34.243  1.00  0.00           C
+HETATM  238  CG  LAA A  22      17.998 -22.051  33.579  1.00  0.00           C
+HETATM  239  NB  LAA A  22      19.193 -22.941  33.404  1.00  0.00           N
+HETATM  240  CA  LAA A  22      19.653 -23.561  34.614  1.00  0.00           C
+HETATM  241  C   LAA A  22      21.039 -23.483  35.007  1.00  0.00           C
+HETATM  242  O   LAA A  22      21.451 -24.067  36.013  1.00  0.00           O
+HETATM  243  CE1 LAA A  22      17.089 -19.990  34.522  1.00  0.00           C
+HETATM  244  SG  LAA A  22      19.183 -23.902  32.083  1.00  0.00           S
+HETATM  245  OD1 LAA A  22      19.068 -23.100  30.942  1.00  0.00           O
+HETATM  246  OD2 LAA A  22      20.300 -24.772  32.244  1.00  0.00           O
+HETATM  247  CD2 LAA A  22      17.781 -24.903  32.270  1.00  0.00           C
+HETATM  248  CE2 LAA A  22      17.843 -26.044  32.979  1.00  0.00           C
+HETATM  249  CE3 LAA A  22      16.551 -24.528  31.671  1.00  0.00           C
+HETATM  250  CZ1 LAA A  22      16.668 -26.803  33.168  1.00  0.00           C
+HETATM  251  CZ2 LAA A  22      15.438 -25.285  31.841  1.00  0.00           C
+HETATM  252  CH  LAA A  22      15.516 -26.387  32.618  1.00  0.00           C
+HETATM  253 Cl17 LAA A  22      14.064 -27.370  32.794  1.00  0.00          Cl
+ATOM    254  N   ALA A  23      21.942 -22.795  34.333  1.00  0.00           N
+ATOM    255  CA  ALA A  23      23.307 -22.790  34.728  1.00  0.00           C
+ATOM    256  C   ALA A  23      23.601 -22.014  35.957  1.00  0.00           C
+ATOM    257  O   ALA A  23      24.633 -22.303  36.597  1.00  0.00           O
+ATOM    258  CB  ALA A  23      24.193 -22.347  33.612  1.00  0.00           C
+HETATM  259  N   LAA A  24      22.818 -21.049  36.315  1.00  0.00           N
+HETATM  260  CD1 LAA A  24      22.967 -20.342  37.534  1.00  0.00           C
+HETATM  261  CG  LAA A  24      21.668 -20.379  38.279  1.00  0.00           C
+HETATM  262  NB  LAA A  24      21.297 -21.765  38.718  1.00  0.00           N
+HETATM  263  CA  LAA A  24      22.066 -22.263  39.823  1.00  0.00           C
+HETATM  264  C   LAA A  24      22.711 -23.552  39.758  1.00  0.00           C
+HETATM  265  O   LAA A  24      23.320 -24.010  40.728  1.00  0.00           O
+HETATM  266  CE1 LAA A  24      23.345 -18.922  37.266  1.00  0.00           C
+HETATM  267  SG  LAA A  24      19.698 -22.097  38.770  1.00  0.00           S
+HETATM  268  OD1 LAA A  24      19.152 -21.882  37.500  1.00  0.00           O
+HETATM  269  OD2 LAA A  24      19.600 -23.375  39.391  1.00  0.00           O
+HETATM  270  CD2 LAA A  24      19.046 -20.970  39.913  1.00  0.00           C
+HETATM  271  CE2 LAA A  24      19.047 -21.251  41.228  1.00  0.00           C
+HETATM  272  CE3 LAA A  24      18.499 -19.738  39.470  1.00  0.00           C
+HETATM  273  CZ1 LAA A  24      18.569 -20.284  42.140  1.00  0.00           C
+HETATM  274  CZ2 LAA A  24      18.019 -18.833  40.359  1.00  0.00           C
+HETATM  275  CH  LAA A  24      18.100 -19.114  41.678  1.00  0.00           C
+HETATM  276 Cl17 LAA A  24      17.437 -17.936  42.809  1.00  0.00          Cl
+ATOM    277  N   ALA A  25      22.696 -24.311  38.678  1.00  0.00           N
+ATOM    278  CA  ALA A  25      23.300 -25.597  38.677  1.00  0.00           C
+ATOM    279  C   ALA A  25      24.783 -25.593  38.680  1.00  0.00           C
+ATOM    280  O   ALA A  25      25.369 -26.609  39.107  1.00  0.00           O
+ATOM    281  CB  ALA A  25      22.788 -26.436  37.553  1.00  0.00           C
+HETATM  282  N   LAA A  26      25.427 -24.572  38.216  1.00  0.00           N
+HETATM  283  CD1 LAA A  26      26.837 -24.445  38.292  1.00  0.00           C
+HETATM  284  CG  LAA A  26      27.172 -23.138  38.943  1.00  0.00           C
+HETATM  285  NB  LAA A  26      26.734 -23.081  40.377  1.00  0.00           N
+HETATM  286  CA  LAA A  26      27.543 -23.857  41.275  1.00  0.00           C
+HETATM  287  C   LAA A  26      26.942 -24.799  42.188  1.00  0.00           C
+HETATM  288  O   LAA A  26      27.628 -25.421  43.004  1.00  0.00           O
+HETATM  289  CE1 LAA A  26      27.435 -24.487  36.925  1.00  0.00           C
+HETATM  290  SG  LAA A  26      26.281 -21.613  40.931  1.00  0.00           S
+HETATM  291  OD1 LAA A  26      25.233 -21.135  40.137  1.00  0.00           O
+HETATM  292  OD2 LAA A  26      26.105 -21.779  42.334  1.00  0.00           O
+HETATM  293  CD2 LAA A  26      27.686 -20.615  40.750  1.00  0.00           C
+HETATM  294  CE2 LAA A  26      28.628 -20.578  41.710  1.00  0.00           C
+HETATM  295  CE3 LAA A  26      27.855 -19.823  39.586  1.00  0.00           C
+HETATM  296  CZ1 LAA A  26      29.792 -19.807  41.503  1.00  0.00           C
+HETATM  297  CZ2 LAA A  26      28.969 -19.066  39.418  1.00  0.00           C
+HETATM  298  CH  LAA A  26      29.929 -19.106  40.367  1.00  0.00           C
+HETATM  299 Cl17 LAA A  26      31.349 -18.087  40.139  1.00  0.00          Cl
+ATOM    300  N   ALA A  27      25.648 -25.057  42.210  1.00  0.00           N
+ATOM    301  CA  ALA A  27      25.095 -25.954  43.162  1.00  0.00           C
+ATOM    302  C   ALA A  27      25.398 -27.386  42.925  1.00  0.00           C
+ATOM    303  O   ALA A  27      25.337 -28.165  43.898  1.00  0.00           O
+ATOM    304  CB  ALA A  27      23.622 -25.754  43.304  1.00  0.00           C
+HETATM  305  N   LAA A  28      25.679 -27.798  41.731  1.00  0.00           N
+HETATM  306  CD1 LAA A  28      26.092 -29.123  41.446  1.00  0.00           C
+HETATM  307  CG  LAA A  28      27.384 -29.076  40.689  1.00  0.00           C
+HETATM  308  NB  LAA A  28      28.512 -28.523  41.508  1.00  0.00           N
+HETATM  309  CA  LAA A  28      29.011 -29.420  42.512  1.00  0.00           C
+HETATM  310  C   LAA A  28      29.151 -28.996  43.884  1.00  0.00           C
+HETATM  311  O   LAA A  28      29.639 -29.744  44.735  1.00  0.00           O
+HETATM  312  CE1 LAA A  28      25.060 -29.822  40.625  1.00  0.00           C
+HETATM  313  SG  LAA A  28      29.649 -27.682  40.690  1.00  0.00           S
+HETATM  314  OD1 LAA A  28      29.031 -26.617  40.026  1.00  0.00           O
+HETATM  315  OD2 LAA A  28      30.687 -27.440  41.634  1.00  0.00           O
+HETATM  316  CD2 LAA A  28      30.305 -28.812  39.552  1.00  0.00           C
+HETATM  317  CE2 LAA A  28      31.309 -29.635  39.906  1.00  0.00           C
+HETATM  318  CE3 LAA A  28      29.791 -28.877  38.232  1.00  0.00           C
+HETATM  319  CZ1 LAA A  28      31.776 -30.590  38.976  1.00  0.00           C
+HETATM  320  CZ2 LAA A  28      30.273 -29.783  37.344  1.00  0.00           C
+HETATM  321  CH  LAA A  28      31.231 -30.643  37.751  1.00  0.00           C
+HETATM  322 Cl17 LAA A  28      31.863 -31.786  36.567  1.00  0.00          Cl
+ATOM    323  N   ALA A  29      28.774 -27.806  44.312  1.00  0.00           N
+ATOM    324  CA  ALA A  29      28.980 -27.412  45.662  1.00  0.00           C
+ATOM    325  C   ALA A  29      28.094 -28.074  46.650  1.00  0.00           C
+ATOM    326  O   ALA A  29      28.479 -28.125  47.836  1.00  0.00           O
+ATOM    327  CB  ALA A  29      28.906 -25.929  45.812  1.00  0.00           C
+HETATM  328  N   LAA A  30      26.947 -28.542  46.278  1.00  0.00           N
+HETATM  329  CD1 LAA A  30      26.100 -29.287  47.135  1.00  0.00           C
+HETATM  330  CG  LAA A  30      25.758 -30.585  46.470  1.00  0.00           C
+HETATM  331  NB  LAA A  30      26.953 -31.474  46.295  1.00  0.00           N
+HETATM  332  CA  LAA A  30      27.413 -32.095  47.505  1.00  0.00           C
+HETATM  333  C   LAA A  30      28.799 -32.015  47.899  1.00  0.00           C
+HETATM  334  O   LAA A  30      29.211 -32.600  48.905  1.00  0.00           O
+HETATM  335  CE1 LAA A  30      24.846 -28.526  47.413  1.00  0.00           C
+HETATM  336  SG  LAA A  30      26.946 -32.435  44.973  1.00  0.00           S
+HETATM  337  OD1 LAA A  30      26.830 -31.632  43.833  1.00  0.00           O
+HETATM  338  OD2 LAA A  30      28.063 -33.303  45.135  1.00  0.00           O
+HETATM  339  CD2 LAA A  30      25.544 -33.437  45.159  1.00  0.00           C
+HETATM  340  CE2 LAA A  30      25.607 -34.578  45.867  1.00  0.00           C
+HETATM  341  CE3 LAA A  30      24.314 -33.063  44.560  1.00  0.00           C
+HETATM  342  CZ1 LAA A  30      24.432 -35.338  46.056  1.00  0.00           C
+HETATM  343  CZ2 LAA A  30      23.202 -33.821  44.729  1.00  0.00           C
+HETATM  344  CH  LAA A  30      23.281 -34.923  45.505  1.00  0.00           C
+HETATM  345 Cl17 LAA A  30      21.829 -35.908  45.679  1.00  0.00          Cl
+ATOM    346  N   ALA A  31      29.702 -31.326  47.226  1.00  0.00           N
+ATOM    347  CA  ALA A  31      31.066 -31.320  47.622  1.00  0.00           C
+ATOM    348  C   ALA A  31      31.359 -30.544  48.852  1.00  0.00           C
+ATOM    349  O   ALA A  31      32.391 -30.833  49.492  1.00  0.00           O
+ATOM    350  CB  ALA A  31      31.953 -30.875  46.507  1.00  0.00           C
+ATOM    351  OXT ALA A  31      30.568 -29.659  49.174  1.00  0.00           O
+ENDMDL
+CONECT    3    6    4    2
+CONECT   11   24   12   10
+CONECT   10   11    9
+CONECT    7    6   13    8
+CONECT   17   14   19   18
+CONECT   13    7
+CONECT   18   20   17
+CONECT   19   21   17
+CONECT    8    7    9
+CONECT   22   23   21   20
+CONECT   20   22   18
+CONECT   21   22   19
+CONECT   23   22
+CONECT    6    7    3
+CONECT    9   14    8   10
+CONECT   12   11
+CONECT   15   14
+CONECT   16   14
+CONECT   14   15   17   16    9
+CONECT   26   25   29   27
+CONECT   24   11   25
+CONECT   34   47   33   35
+CONECT   33   32   34
+CONECT   30   36   31   29
+CONECT   40   42   41   37
+CONECT   36   30
+CONECT   41   43   40
+CONECT   42   40   44
+CONECT   31   32   30
+CONECT   45   46   43   44
+CONECT   43   45   41
+CONECT   44   45   42
+CONECT   46   45
+CONECT   29   26   30
+CONECT   32   33   37   31
+CONECT   35   34
+CONECT   38   37
+CONECT   39   37
+CONECT   37   32   39   40   38
+CONECT   49   48   52   50
+CONECT   47   48   34
+CONECT   57   58   70   56
+CONECT   56   57   55
+CONECT   53   54   52   59
+CONECT   63   60   64   65
+CONECT   59   53
+CONECT   64   66   63
+CONECT   65   67   63
+CONECT   54   53   55
+CONECT   68   67   66   69
+CONECT   66   64   68
+CONECT   67   65   68
+CONECT   69   68
+CONECT   52   53   49
+CONECT   55   60   54   56
+CONECT   58   57
+CONECT   61   60
+CONECT   62   60
+CONECT   60   62   61   55   63
+CONECT   72   73   75   71
+CONECT   70   57   71
+CONECT   80   81   79   93
+CONECT   79   80   78
+CONECT   76   82   77   75
+CONECT   86   83   87   88
+CONECT   82   76
+CONECT   87   86   89
+CONECT   88   86   90
+CONECT   77   76   78
+CONECT   91   90   92   89
+CONECT   89   87   91
+CONECT   90   91   88
+CONECT   92   91
+CONECT   75   76   72
+CONECT   78   83   79   77
+CONECT   81   80
+CONECT   84   83
+CONECT   85   83
+CONECT   83   85   86   78   84
+CONECT   95   96   98   94
+CONECT   93   80   94
+CONECT  103  102  104  116
+CONECT  102  103  101
+CONECT   99  105   98  100
+CONECT  109  106  110  111
+CONECT  105   99
+CONECT  110  109  112
+CONECT  111  109  113
+CONECT  100   99  101
+CONECT  114  112  113  115
+CONECT  112  110  114
+CONECT  113  111  114
+CONECT  115  114
+CONECT   98   95   99
+CONECT  101  102  106  100
+CONECT  104  103
+CONECT  107  106
+CONECT  108  106
+CONECT  106  107  109  108  101
+CONECT  118  119  117  121
+CONECT  116  103  117
+CONECT  126  127  125  139
+CONECT  125  124  126
+CONECT  122  128  123  121
+CONECT  132  129  134  133
+CONECT  128  122
+CONECT  133  135  132
+CONECT  134  136  132
+CONECT  123  124  122
+CONECT  137  136  138  135
+CONECT  135  137  133
+CONECT  136  137  134
+CONECT  138  137
+CONECT  121  118  122
+CONECT  124  129  125  123
+CONECT  127  126
+CONECT  130  129
+CONECT  131  129
+CONECT  129  124  131  132  130
+CONECT  141  140  142  144
+CONECT  139  126  140
+CONECT  149  162  150  148
+CONECT  148  149  147
+CONECT  145  146  151  144
+CONECT  155  157  156  152
+CONECT  151  145
+CONECT  156  158  155
+CONECT  157  159  155
+CONECT  146  147  145
+CONECT  160  159  158  161
+CONECT  158  156  160
+CONECT  159  157  160
+CONECT  161  160
+CONECT  144  141  145
+CONECT  147  146  148  152
+CONECT  150  149
+CONECT  153  152
+CONECT  154  152
+CONECT  152  155  147  153  154
+CONECT  164  167  165  163
+CONECT  162  149  163
+CONECT  172  185  173  171
+CONECT  171  170  172
+CONECT  168  169  174  167
+CONECT  178  180  179  175
+CONECT  174  168
+CONECT  179  178  181
+CONECT  180  178  182
+CONECT  169  170  168
+CONECT  183  182  181  184
+CONECT  181  179  183
+CONECT  182  180  183
+CONECT  184  183
+CONECT  167  164  168
+CONECT  170  169  171  175
+CONECT  173  172
+CONECT  176  175
+CONECT  177  175
+CONECT  175  178  177  176  170
+CONECT  187  190  188  186
+CONECT  185  186  172
+CONECT  195  196  194  208
+CONECT  194  195  193
+CONECT  191  197  192  190
+CONECT  201  198  202  203
+CONECT  197  191
+CONECT  202  204  201
+CONECT  203  201  205
+CONECT  192  193  191
+CONECT  206  204  207  205
+CONECT  204  206  202
+CONECT  205  206  203
+CONECT  207  206
+CONECT  190  191  187
+CONECT  193  194  198  192
+CONECT  196  195
+CONECT  199  198
+CONECT  200  198
+CONECT  198  201  200  199  193
+CONECT  210  213  211  209
+CONECT  208  195  209
+CONECT  218  217  231  219
+CONECT  217  216  218
+CONECT  214  220  213  215
+CONECT  224  225  226  221
+CONECT  220  214
+CONECT  225  224  227
+CONECT  226  224  228
+CONECT  215  216  214
+CONECT  229  230  228  227
+CONECT  227  225  229
+CONECT  228  226  229
+CONECT  230  229
+CONECT  213  210  214
+CONECT  216  217  221  215
+CONECT  219  218
+CONECT  222  221
+CONECT  223  221
+CONECT  221  223  222  224  216
+CONECT  233  234  232  236
+CONECT  231  218  232
+CONECT  241  240  242  254
+CONECT  240  241  239
+CONECT  237  238  243  236
+CONECT  247  244  249  248
+CONECT  243  237
+CONECT  248  250  247
+CONECT  249  251  247
+CONECT  238  237  239
+CONECT  252  250  251  253
+CONECT  250  252  248
+CONECT  251  252  249
+CONECT  253  252
+CONECT  236  237  233
+CONECT  239  238  240  244
+CONECT  242  241
+CONECT  245  244
+CONECT  246  244
+CONECT  244  246  239  245  247
+CONECT  256  257  259  255
+CONECT  254  241  255
+CONECT  264  277  263  265
+CONECT  263  262  264
+CONECT  260  259  261  266
+CONECT  270  271  272  267
+CONECT  266  260
+CONECT  271  270  273
+CONECT  272  270  274
+CONECT  261  262  260
+CONECT  275  276  274  273
+CONECT  273  275  271
+CONECT  274  275  272
+CONECT  276  275
+CONECT  259  256  260
+CONECT  262  261  263  267
+CONECT  265  264
+CONECT  268  267
+CONECT  269  267
+CONECT  267  262  270  269  268
+CONECT  279  282  278  280
+CONECT  277  278  264
+CONECT  287  300  288  286
+CONECT  286  287  285
+CONECT  283  284  289  282
+CONECT  293  294  290  295
+CONECT  289  283
+CONECT  294  293  296
+CONECT  295  293  297
+CONECT  284  285  283
+CONECT  298  296  297  299
+CONECT  296  294  298
+CONECT  297  298  295
+CONECT  299  298
+CONECT  282  283  279
+CONECT  285  284  290  286
+CONECT  288  287
+CONECT  291  290
+CONECT  292  290
+CONECT  290  291  293  292  285
+CONECT  302  303  301  305
+CONECT  300  301  287
+CONECT  310  311  309  323
+CONECT  309  310  308
+CONECT  306  307  305  312
+CONECT  316  313  317  318
+CONECT  312  306
+CONECT  317  316  319
+CONECT  318  316  320
+CONECT  307  306  308
+CONECT  321  322  320  319
+CONECT  319  317  321
+CONECT  320  318  321
+CONECT  322  321
+CONECT  305  306  302
+CONECT  308  307  309  313
+CONECT  311  310
+CONECT  314  313
+CONECT  315  313
+CONECT  313  308  315  316  314
+CONECT  325  328  326  324
+CONECT  323  310  324
+CONECT  333  334  332  346
+CONECT  332  331  333
+CONECT  329  335  330  328
+CONECT  339  341  340  336
+CONECT  335  329
+CONECT  340  339  342
+CONECT  341  339  343
+CONECT  330  329  331
+CONECT  344  345  343  342
+CONECT  342  340  344
+CONECT  343  341  344
+CONECT  345  344
+CONECT  328  329  325
+CONECT  331  336  332  330
+CONECT  334  333
+CONECT  337  336
+CONECT  338  336
+CONECT  336  339  338  337  331
+CONECT  346  347  333
+MODEL        2
+ATOM      1  N   ALA A  32      -4.235 -16.324  26.420  1.00  0.00           N
+ATOM      2  CA  ALA A  32      -2.928 -16.677  25.849  1.00  0.00           C
+ATOM      3  C   ALA A  32      -2.719 -16.051  24.498  1.00  0.00           C
+ATOM      4  O   ALA A  32      -1.546 -15.897  24.102  1.00  0.00           O
+ATOM      5  CB  ALA A  32      -2.746 -18.182  25.800  1.00  0.00           C
+HETATM    6  N   LAA A  33      -3.739 -15.724  23.773  1.00  0.00           N
+HETATM    7  CD1 LAA A  33      -3.624 -15.026  22.545  1.00  0.00           C
+HETATM    8  CG  LAA A  33      -4.492 -13.807  22.596  1.00  0.00           C
+HETATM    9  NB  LAA A  33      -4.024 -12.810  23.614  1.00  0.00           N
+HETATM   10  CA  LAA A  33      -2.845 -12.082  23.234  1.00  0.00           C
+HETATM   11  C   LAA A  33      -1.709 -11.998  24.118  1.00  0.00           C
+HETATM   12  O   LAA A  33      -0.719 -11.322  23.821  1.00  0.00           O
+HETATM   13  CE1 LAA A  33      -4.057 -15.896  21.412  1.00  0.00           C
+HETATM   14  SG  LAA A  33      -5.190 -11.925  24.342  1.00  0.00           S
+HETATM   15  OD1 LAA A  33      -6.090 -12.795  24.967  1.00  0.00           O
+HETATM   16  OD2 LAA A  33      -4.494 -10.939  25.098  1.00  0.00           O
+HETATM   17  CD2 LAA A  33      -5.965 -11.065  23.053  1.00  0.00           C
+HETATM   18  CE2 LAA A  33      -5.477  -9.887  22.625  1.00  0.00           C
+HETATM   19  CE3 LAA A  33      -7.130 -11.594  22.440  1.00  0.00           C
+HETATM   20  CZ1 LAA A  33      -6.094  -9.244  21.529  1.00  0.00           C
+HETATM   21  CZ2 LAA A  33      -7.724 -10.947  21.406  1.00  0.00           C
+HETATM   22  CH  LAA A  33      -7.168  -9.804  20.952  1.00  0.00           C
+HETATM   23 Cl17 LAA A  33      -7.981  -8.966  19.631  1.00  0.00         CCl
+ATOM     24  N   ALA A  34      -1.649 -12.625  25.278  1.00  0.00           N
+ATOM     25  CA  ALA A  34      -0.530 -12.469  26.140  1.00  0.00           C
+ATOM     26  C   ALA A  34       0.709 -13.145  25.686  1.00  0.00           C
+ATOM     27  O   ALA A  34       1.799 -12.719  26.121  1.00  0.00           O
+ATOM     28  CB  ALA A  34      -0.861 -12.878  27.537  1.00  0.00           C
+HETATM   29  N   LAA A  35       0.637 -14.165  24.894  1.00  0.00           N
+HETATM   30  CD1 LAA A  35       1.775 -14.788  24.326  1.00  0.00           C
+HETATM   31  CG  LAA A  35       1.608 -14.844  22.839  1.00  0.00           C
+HETATM   32  NB  LAA A  35       1.599 -13.483  22.210  1.00  0.00           N
+HETATM   33  CA  LAA A  35       2.888 -12.851  22.146  1.00  0.00           C
+HETATM   34  C   LAA A  35       3.080 -11.508  22.637  1.00  0.00           C
+HETATM   35  O   LAA A  35       4.170 -10.940  22.527  1.00  0.00           O
+HETATM   36  CE1 LAA A  35       1.928 -16.173  24.861  1.00  0.00           C
+HETATM   37  SG  LAA A  35       0.668 -13.313  20.878  1.00  0.00           S
+HETATM   38  OD1 LAA A  35      -0.650 -13.650  21.204  1.00  0.00           O
+HETATM   39  OD2 LAA A  35       0.978 -12.020  20.366  1.00  0.00           O
+HETATM   40  CD2 LAA A  35       1.320 -14.439  19.733  1.00  0.00           C
+HETATM   41  CE2 LAA A  35       2.348 -14.091  18.939  1.00  0.00           C
+HETATM   42  CE3 LAA A  35       0.770 -15.741  19.620  1.00  0.00           C
+HETATM   43  CZ1 LAA A  35       2.899 -15.051  18.063  1.00  0.00           C
+HETATM   44  CZ2 LAA A  35       1.296 -16.642  18.752  1.00  0.00           C
+HETATM   45  CH  LAA A  35       2.373 -16.286  18.021  1.00  0.00           C
+HETATM   46 Cl17 LAA A  35       3.014 -17.465  16.876  1.00  0.00         CCl
+ATOM     47  N   ALA A  36       2.126 -10.812  23.227  1.00  0.00           N
+ATOM     48  CA  ALA A  36       2.348  -9.473  23.648  1.00  0.00           C
+ATOM     49  C   ALA A  36       3.221  -9.326  24.837  1.00  0.00           C
+ATOM     50  O   ALA A  36       3.803  -8.234  25.002  1.00  0.00           O
+ATOM     51  CB  ALA A  36       1.058  -8.751  23.860  1.00  0.00           C
+HETATM   52  N   LAA A  37       3.331 -10.298  25.682  1.00  0.00           N
+HETATM   53  CD1 LAA A  37       4.233 -10.276  26.775  1.00  0.00           C
+HETATM   54  CG  LAA A  37       5.088 -11.505  26.725  1.00  0.00           C
+HETATM   55  NB  LAA A  37       5.987 -11.532  25.525  1.00  0.00           N
+HETATM   56  CA  LAA A  37       7.103 -10.631  25.601  1.00  0.00           C
+HETATM   57  C   LAA A  37       7.387  -9.708  24.530  1.00  0.00           C
+HETATM   58  O   LAA A  37       8.381  -8.977  24.564  1.00  0.00           O
+HETATM   59  CE1 LAA A  37       3.482 -10.246  28.066  1.00  0.00           C
+HETATM   60  SG  LAA A  37       6.317 -13.007  24.906  1.00  0.00           S
+HETATM   61  OD1 LAA A  37       5.113 -13.631  24.560  1.00  0.00           O
+HETATM   62  OD2 LAA A  37       7.325 -12.786  23.925  1.00  0.00           O
+HETATM   63  CD2 LAA A  37       7.101 -13.864  26.194  1.00  0.00           C
+HETATM   64  CE2 LAA A  37       8.427 -13.754  26.382  1.00  0.00           C
+HETATM   65  CE3 LAA A  37       6.346 -14.695  27.061  1.00  0.00           C
+HETATM   66  CZ1 LAA A  37       9.024 -14.412  27.480  1.00  0.00           C
+HETATM   67  CZ2 LAA A  37       6.943 -15.342  28.094  1.00  0.00           C
+HETATM   68  CH  LAA A  37       8.265 -15.154  28.299  1.00  0.00           C
+HETATM   69 Cl17 LAA A  37       9.020 -16.034  29.627  1.00  0.00         CCl
+ATOM     70  N   ALA A  38       6.619  -9.583  23.464  1.00  0.00           N
+ATOM     71  CA  ALA A  38       6.966  -8.698  22.407  1.00  0.00           C
+ATOM     72  C   ALA A  38       6.805  -7.256  22.719  1.00  0.00           C
+ATOM     73  O   ALA A  38       7.471  -6.439  22.052  1.00  0.00           O
+ATOM     74  CB  ALA A  38       6.236  -9.039  21.150  1.00  0.00           C
+HETATM   75  N   LAA A  39       5.970  -6.882  23.633  1.00  0.00           N
+HETATM   76  CD1 LAA A  39       5.847  -5.539  24.066  1.00  0.00           C
+HETATM   77  CG  LAA A  39       6.001  -5.494  25.556  1.00  0.00           C
+HETATM   78  NB  LAA A  39       7.378  -5.885  26.003  1.00  0.00           N
+HETATM   79  CA  LAA A  39       8.385  -4.888  25.763  1.00  0.00           C
+HETATM   80  C   LAA A  39       9.612  -5.224  25.083  1.00  0.00           C
+HETATM   81  O   LAA A  39      10.506  -4.386  24.931  1.00  0.00           O
+HETATM   82  CE1 LAA A  39       4.510  -4.993  23.688  1.00  0.00           C
+HETATM   83  SG  LAA A  39       7.476  -6.646  27.445  1.00  0.00           S
+HETATM   84  OD1 LAA A  39       6.689  -7.803  27.397  1.00  0.00           O
+HETATM   85  OD2 LAA A  39       8.868  -6.732  27.731  1.00  0.00           O
+HETATM   86  CD2 LAA A  39       6.831  -5.516  28.590  1.00  0.00           C
+HETATM   87  CE2 LAA A  39       7.618  -4.578  29.144  1.00  0.00           C
+HETATM   88  CE3 LAA A  39       5.462  -5.575  28.958  1.00  0.00           C
+HETATM   89  CZ1 LAA A  39       7.048  -3.631  30.022  1.00  0.00           C
+HETATM   90  CZ2 LAA A  39       4.939  -4.673  29.825  1.00  0.00           C
+HETATM   91  CH  LAA A  39       5.739  -3.699  30.309  1.00  0.00           C
+HETATM   92 Cl17 LAA A  39       5.041  -2.561  31.461  1.00  0.00         CCl
+ATOM     93  N   ALA A  40       9.858  -6.421  24.586  1.00  0.00           N
+ATOM     94  CA  ALA A  40      11.103  -6.720  23.970  1.00  0.00           C
+ATOM     95  C   ALA A  40      11.308  -6.102  22.638  1.00  0.00           C
+ATOM     96  O   ALA A  40      12.482  -5.949  22.240  1.00  0.00           O
+ATOM     97  CB  ALA A  40      11.333  -8.193  23.898  1.00  0.00           C
+HETATM   98  N   LAA A  41      10.288  -5.774  21.915  1.00  0.00           N
+HETATM   99  CD1 LAA A  41      10.402  -5.075  20.687  1.00  0.00           C
+HETATM  100  CG  LAA A  41       9.534  -3.855  20.740  1.00  0.00           C
+HETATM  101  NB  LAA A  41      10.003  -2.859  21.759  1.00  0.00           N
+HETATM  102  CA  LAA A  41      11.182  -2.132  21.379  1.00  0.00           C
+HETATM  103  C   LAA A  41      12.320  -2.049  22.262  1.00  0.00           C
+HETATM  104  O   LAA A  41      13.308  -1.372  21.966  1.00  0.00           O
+HETATM  105  CE1 LAA A  41       9.968  -5.944  19.554  1.00  0.00           C
+HETATM  106  SG  LAA A  41       8.839  -1.975  22.489  1.00  0.00           S
+HETATM  107  OD1 LAA A  41       7.938  -2.845  23.113  1.00  0.00           O
+HETATM  108  OD2 LAA A  41       9.535  -0.991  23.246  1.00  0.00           O
+HETATM  109  CD2 LAA A  41       8.062  -1.114  21.202  1.00  0.00           C
+HETATM  110  CE2 LAA A  41       8.550   0.064  20.774  1.00  0.00           C
+HETATM  111  CE3 LAA A  41       6.898  -1.642  20.589  1.00  0.00           C
+HETATM  112  CZ1 LAA A  41       7.933   0.709  19.679  1.00  0.00           C
+HETATM  113  CZ2 LAA A  41       6.302  -0.994  19.557  1.00  0.00           C
+HETATM  114  CH  LAA A  41       6.858   0.150  19.103  1.00  0.00           C
+HETATM  115 Cl17 LAA A  41       6.044   0.989  17.783  1.00  0.00         CCl
+ATOM    116  N   ALA A  42      12.380  -2.677  23.421  1.00  0.00           N
+ATOM    117  CA  ALA A  42      13.500  -2.522  24.283  1.00  0.00           C
+ATOM    118  C   ALA A  42      14.739  -3.198  23.826  1.00  0.00           C
+ATOM    119  O   ALA A  42      15.828  -2.771  24.261  1.00  0.00           O
+ATOM    120  CB  ALA A  42      13.170  -2.932  25.680  1.00  0.00           C
+HETATM  121  N   LAA A  43      14.664  -4.216  23.034  1.00  0.00           N
+HETATM  122  CD1 LAA A  43      15.804  -4.839  22.465  1.00  0.00           C
+HETATM  123  CG  LAA A  43      15.634  -4.893  20.978  1.00  0.00           C
+HETATM  124  NB  LAA A  43      15.626  -3.531  20.349  1.00  0.00           N
+HETATM  125  CA  LAA A  43      16.914  -2.900  20.286  1.00  0.00           C
+HETATM  126  C   LAA A  43      17.108  -1.558  20.778  1.00  0.00           C
+HETATM  127  O   LAA A  43      18.196  -0.989  20.668  1.00  0.00           O
+HETATM  128  CE1 LAA A  43      15.957  -6.225  22.999  1.00  0.00           C
+HETATM  129  SG  LAA A  43      14.694  -3.360  19.018  1.00  0.00           S
+HETATM  130  OD1 LAA A  43      13.375  -3.696  19.345  1.00  0.00           O
+HETATM  131  OD2 LAA A  43      15.004  -2.067  18.508  1.00  0.00           O
+HETATM  132  CD2 LAA A  43      15.344  -4.485  17.872  1.00  0.00           C
+HETATM  133  CE2 LAA A  43      16.371  -4.136  17.077  1.00  0.00           C
+HETATM  134  CE3 LAA A  43      14.795  -5.787  17.758  1.00  0.00           C
+HETATM  135  CZ1 LAA A  43      16.922  -5.096  16.201  1.00  0.00           C
+HETATM  136  CZ2 LAA A  43      15.319  -6.688  16.890  1.00  0.00           C
+HETATM  137  CH  LAA A  43      16.396  -6.330  16.157  1.00  0.00           C
+HETATM  138 Cl17 LAA A  43      17.035  -7.507  15.012  1.00  0.00         CCl
+ATOM    139  N   ALA A  44      16.154  -0.862  21.370  1.00  0.00           N
+ATOM    140  CA  ALA A  44      16.376   0.477  21.792  1.00  0.00           C
+ATOM    141  C   ALA A  44      17.250   0.623  22.980  1.00  0.00           C
+ATOM    142  O   ALA A  44      17.832   1.713  23.146  1.00  0.00           O
+ATOM    143  CB  ALA A  44      15.087   1.198  22.006  1.00  0.00           C
+HETATM  144  N   LAA A  45      17.361  -0.351  23.824  1.00  0.00           N
+HETATM  145  CD1 LAA A  45      18.263  -0.330  24.917  1.00  0.00           C
+HETATM  146  CG  LAA A  45      19.117  -1.560  24.863  1.00  0.00           C
+HETATM  147  NB  LAA A  45      20.017  -1.584  23.664  1.00  0.00           N
+HETATM  148  CA  LAA A  45      21.133  -0.685  23.740  1.00  0.00           C
+HETATM  149  C   LAA A  45      21.416   0.240  22.669  1.00  0.00           C
+HETATM  150  O   LAA A  45      22.410   0.970  22.704  1.00  0.00           O
+HETATM  151  CE1 LAA A  45      17.513  -0.302  26.207  1.00  0.00           C
+HETATM  152  SG  LAA A  45      20.346  -3.060  23.043  1.00  0.00           S
+HETATM  153  OD1 LAA A  45      19.142  -3.683  22.698  1.00  0.00           O
+HETATM  154  OD2 LAA A  45      21.352  -2.837  22.060  1.00  0.00           O
+HETATM  155  CD2 LAA A  45      21.130  -3.918  24.330  1.00  0.00           C
+HETATM  156  CE2 LAA A  45      22.457  -3.809  24.516  1.00  0.00           C
+HETATM  157  CE3 LAA A  45      20.376  -4.749  25.196  1.00  0.00           C
+HETATM  158  CZ1 LAA A  45      23.055  -4.468  25.612  1.00  0.00           C
+HETATM  159  CZ2 LAA A  45      20.974  -5.398  26.227  1.00  0.00           C
+HETATM  160  CH  LAA A  45      22.295  -5.210  26.432  1.00  0.00           C
+HETATM  161 Cl17 LAA A  45      23.052  -6.091  27.759  1.00  0.00         CCl
+ATOM    162  N   ALA A  46      20.646   0.366  21.604  1.00  0.00           N
+ATOM    163  CA  ALA A  46      20.993   1.252  20.549  1.00  0.00           C
+ATOM    164  C   ALA A  46      20.834   2.694  20.862  1.00  0.00           C
+ATOM    165  O   ALA A  46      21.499   3.512  20.195  1.00  0.00           O
+ATOM    166  CB  ALA A  46      20.262   0.912  19.292  1.00  0.00           C
+HETATM  167  N   LAA A  47      19.998   3.067  21.776  1.00  0.00           N
+HETATM  168  CD1 LAA A  47      19.876   4.410  22.211  1.00  0.00           C
+HETATM  169  CG  LAA A  47      20.031   4.454  23.701  1.00  0.00           C
+HETATM  170  NB  LAA A  47      21.409   4.062  24.147  1.00  0.00           N
+HETATM  171  CA  LAA A  47      22.415   5.058  23.907  1.00  0.00           C
+HETATM  172  C   LAA A  47      23.642   4.723  23.225  1.00  0.00           C
+HETATM  173  O   LAA A  47      24.536   5.561  23.074  1.00  0.00           O
+HETATM  174  CE1 LAA A  47      18.538   4.956  21.835  1.00  0.00           C
+HETATM  175  SG  LAA A  47      21.507   3.298  25.588  1.00  0.00           S
+HETATM  176  OD1 LAA A  47      20.720   2.142  25.539  1.00  0.00           O
+HETATM  177  OD2 LAA A  47      22.899   3.213  25.873  1.00  0.00           O
+HETATM  178  CD2 LAA A  47      20.863   4.427  26.735  1.00  0.00           C
+HETATM  179  CE2 LAA A  47      21.651   5.365  27.289  1.00  0.00           C
+HETATM  180  CE3 LAA A  47      19.495   4.369  27.103  1.00  0.00           C
+HETATM  181  CZ1 LAA A  47      21.082   6.311  28.168  1.00  0.00           C
+HETATM  182  CZ2 LAA A  47      18.972   5.270  27.972  1.00  0.00           C
+HETATM  183  CH  LAA A  47      19.774   6.243  28.456  1.00  0.00           C
+HETATM  184 Cl17 LAA A  47      19.077   7.379  29.611  1.00  0.00         CCl
+ATOM    185  N   ALA A  48      23.887   3.525  22.727  1.00  0.00           N
+ATOM    186  CA  ALA A  48      25.133   3.228  22.110  1.00  0.00           C
+ATOM    187  C   ALA A  48      25.336   3.847  20.778  1.00  0.00           C
+ATOM    188  O   ALA A  48      26.509   4.001  20.381  1.00  0.00           O
+ATOM    189  CB  ALA A  48      25.361   1.754  22.035  1.00  0.00           C
+HETATM  190  N   LAA A  49      24.316   4.176  20.056  1.00  0.00           N
+HETATM  191  CD1 LAA A  49      24.429   4.877  18.829  1.00  0.00           C
+HETATM  192  CG  LAA A  49      23.561   6.097  18.885  1.00  0.00           C
+HETATM  193  NB  LAA A  49      24.031   7.092  19.904  1.00  0.00           N
+HETATM  194  CA  LAA A  49      25.209   7.819  19.524  1.00  0.00           C
+HETATM  195  C   LAA A  49      26.348   7.901  20.406  1.00  0.00           C
+HETATM  196  O   LAA A  49      27.336   8.578  20.110  1.00  0.00           O
+HETATM  197  CE1 LAA A  49      23.994   4.009  17.696  1.00  0.00           C
+HETATM  198  SG  LAA A  49      22.867   7.974  20.636  1.00  0.00           S
+HETATM  199  OD1 LAA A  49      21.967   7.104  21.260  1.00  0.00           O
+HETATM  200  OD2 LAA A  49      23.564   8.959  21.393  1.00  0.00           O
+HETATM  201  CD2 LAA A  49      22.089   8.838  19.350  1.00  0.00           C
+HETATM  202  CE2 LAA A  49      22.577  10.016  18.923  1.00  0.00           C
+HETATM  203  CE3 LAA A  49      20.924   8.310  18.737  1.00  0.00           C
+HETATM  204  CZ1 LAA A  49      21.960  10.662  17.830  1.00  0.00           C
+HETATM  205  CZ2 LAA A  49      20.328   8.960  17.706  1.00  0.00           C
+HETATM  206  CH  LAA A  49      20.884  10.104  17.253  1.00  0.00           C
+HETATM  207 Cl17 LAA A  49      20.069  10.944  15.936  1.00  0.00         CCl
+ATOM    208  N   ALA A  50      26.409   7.272  21.565  1.00  0.00           N
+ATOM    209  CA  ALA A  50      27.529   7.425  22.426  1.00  0.00           C
+ATOM    210  C   ALA A  50      28.768   6.750  21.968  1.00  0.00           C
+ATOM    211  O   ALA A  50      29.857   7.176  22.402  1.00  0.00           O
+ATOM    212  CB  ALA A  50      27.201   7.013  23.822  1.00  0.00           C
+HETATM  213  N   LAA A  51      28.693   5.732  21.174  1.00  0.00           N
+HETATM  214  CD1 LAA A  51      29.831   5.110  20.603  1.00  0.00           C
+HETATM  215  CG  LAA A  51      29.662   5.057  19.116  1.00  0.00           C
+HETATM  216  NB  LAA A  51      29.652   6.420  18.489  1.00  0.00           N
+HETATM  217  CA  LAA A  51      30.941   7.051  18.426  1.00  0.00           C
+HETATM  218  C   LAA A  51      31.134   8.393  18.919  1.00  0.00           C
+HETATM  219  O   LAA A  51      32.224   8.961  18.808  1.00  0.00           O
+HETATM  220  CE1 LAA A  51      29.984   3.723  21.136  1.00  0.00           C
+HETATM  221  SG  LAA A  51      28.719   6.593  17.160  1.00  0.00           S
+HETATM  222  OD1 LAA A  51      27.401   6.256  17.487  1.00  0.00           O
+HETATM  223  OD2 LAA A  51      29.029   7.886  16.649  1.00  0.00           O
+HETATM  224  CD2 LAA A  51      29.369   5.469  16.011  1.00  0.00           C
+HETATM  225  CE2 LAA A  51      30.395   5.819  15.216  1.00  0.00           C
+HETATM  226  CE3 LAA A  51      28.819   4.167  15.896  1.00  0.00           C
+HETATM  227  CZ1 LAA A  51      30.945   4.859  14.338  1.00  0.00           C
+HETATM  228  CZ2 LAA A  51      29.342   3.267  15.026  1.00  0.00           C
+HETATM  229  CH  LAA A  51      30.419   3.625  14.294  1.00  0.00           C
+HETATM  230 Cl17 LAA A  51      31.058   2.449  13.146  1.00  0.00         CCl
+ATOM    231  N   ALA A  52      30.182   9.088  19.512  1.00  0.00           N
+ATOM    232  CA  ALA A  52      30.403  10.427  19.935  1.00  0.00           C
+ATOM    233  C   ALA A  52      31.279  10.571  21.124  1.00  0.00           C
+ATOM    234  O   ALA A  52      31.861  11.662  21.290  1.00  0.00           O
+ATOM    235  CB  ALA A  52      29.115  11.148  20.152  1.00  0.00           C
+HETATM  236  N   LAA A  53      31.390   9.597  21.966  1.00  0.00           N
+HETATM  237  CD1 LAA A  53      32.293   9.616  23.058  1.00  0.00           C
+HETATM  238  CG  LAA A  53      33.148   8.386  23.003  1.00  0.00           C
+HETATM  239  NB  LAA A  53      34.046   8.363  21.802  1.00  0.00           N
+HETATM  240  CA  LAA A  53      35.162   9.262  21.879  1.00  0.00           C
+HETATM  241  C   LAA A  53      35.444  10.188  20.809  1.00  0.00           C
+HETATM  242  O   LAA A  53      36.438  10.918  20.842  1.00  0.00           O
+HETATM  243  CE1 LAA A  53      31.545   9.643  24.350  1.00  0.00           C
+HETATM  244  SG  LAA A  53      34.374   6.888  21.181  1.00  0.00           S
+HETATM  245  OD1 LAA A  53      33.170   6.266  20.835  1.00  0.00           O
+HETATM  246  OD2 LAA A  53      35.381   7.112  20.197  1.00  0.00           O
+HETATM  247  CD2 LAA A  53      35.160   6.028  22.464  1.00  0.00           C
+HETATM  248  CE2 LAA A  53      36.487   6.137  22.651  1.00  0.00           C
+HETATM  249  CE3 LAA A  53      34.406   5.195  23.331  1.00  0.00           C
+HETATM  250  CZ1 LAA A  53      37.086   5.477  23.745  1.00  0.00           C
+HETATM  251  CZ2 LAA A  53      35.004   4.546  24.361  1.00  0.00           C
+HETATM  252  CH  LAA A  53      36.326   4.733  24.565  1.00  0.00           C
+HETATM  253 Cl17 LAA A  53      37.084   3.851  25.890  1.00  0.00         CCl
+ATOM    254  N   ALA A  54      34.674  10.315  19.744  1.00  0.00           N
+ATOM    255  CA  ALA A  54      35.020  11.203  18.690  1.00  0.00           C
+ATOM    256  C   ALA A  54      34.861  12.643  19.005  1.00  0.00           C
+ATOM    257  O   ALA A  54      35.526  13.463  18.339  1.00  0.00           O
+ATOM    258  CB  ALA A  54      34.289  10.864  17.434  1.00  0.00           C
+HETATM  259  N   LAA A  55      34.027  13.016  19.920  1.00  0.00           N
+HETATM  260  CD1 LAA A  55      33.905  14.359  20.357  1.00  0.00           C
+HETATM  261  CG  LAA A  55      34.061  14.401  21.846  1.00  0.00           C
+HETATM  262  NB  LAA A  55      35.440  14.008  22.290  1.00  0.00           N
+HETATM  263  CA  LAA A  55      36.446  15.004  22.051  1.00  0.00           C
+HETATM  264  C   LAA A  55      37.673  14.670  21.368  1.00  0.00           C
+HETATM  265  O   LAA A  55      38.566  15.508  21.217  1.00  0.00           O
+HETATM  266  CE1 LAA A  55      32.567  14.906  19.983  1.00  0.00           C
+HETATM  267  SG  LAA A  55      35.539  13.243  23.731  1.00  0.00           S
+HETATM  268  OD1 LAA A  55      34.752  12.087  23.681  1.00  0.00           O
+HETATM  269  OD2 LAA A  55      36.931  13.156  24.015  1.00  0.00           O
+HETATM  270  CD2 LAA A  55      34.896  14.370  24.879  1.00  0.00           C
+HETATM  271  CE2 LAA A  55      35.685  15.307  25.433  1.00  0.00           C
+HETATM  272  CE3 LAA A  55      33.527  14.312  25.249  1.00  0.00           C
+HETATM  273  CZ1 LAA A  55      35.117  16.253  26.315  1.00  0.00           C
+HETATM  274  CZ2 LAA A  55      33.005  15.212  26.119  1.00  0.00           C
+HETATM  275  CH  LAA A  55      33.807  16.185  26.604  1.00  0.00           C
+HETATM  276 Cl17 LAA A  55      33.112  17.320  27.759  1.00  0.00         CCl
+ATOM    277  N   ALA A  56      37.916  13.473  20.868  1.00  0.00           N
+ATOM    278  CA  ALA A  56      39.161  13.175  20.251  1.00  0.00           C
+ATOM    279  C   ALA A  56      39.364  13.797  18.920  1.00  0.00           C
+ATOM    280  O   ALA A  56      40.537  13.951  18.520  1.00  0.00           O
+ATOM    281  CB  ALA A  56      39.390  11.702  20.174  1.00  0.00           C
+HETATM  282  N   LAA A  57      38.343  14.127  18.198  1.00  0.00           N
+HETATM  283  CD1 LAA A  57      38.455  14.829  16.972  1.00  0.00           C
+HETATM  284  CG  LAA A  57      37.587  16.048  17.029  1.00  0.00           C
+HETATM  285  NB  LAA A  57      38.058  17.042  18.050  1.00  0.00           N
+HETATM  286  CA  LAA A  57      39.237  17.770  17.668  1.00  0.00           C
+HETATM  287  C   LAA A  57      40.376  17.851  18.551  1.00  0.00           C
+HETATM  288  O   LAA A  57      41.364  18.527  18.253  1.00  0.00           O
+HETATM  289  CE1 LAA A  57      38.020  13.962  15.837  1.00  0.00           C
+HETATM  290  SG  LAA A  57      36.896  17.924  18.783  1.00  0.00           S
+HETATM  291  OD1 LAA A  57      35.995  17.054  19.407  1.00  0.00           O
+HETATM  292  OD2 LAA A  57      37.592  18.907  19.541  1.00  0.00           O
+HETATM  293  CD2 LAA A  57      36.116  18.789  17.499  1.00  0.00           C
+HETATM  294  CE2 LAA A  57      36.605  19.968  17.072  1.00  0.00           C
+HETATM  295  CE3 LAA A  57      34.951  18.262  16.887  1.00  0.00           C
+HETATM  296  CZ1 LAA A  57      35.986  20.615  15.981  1.00  0.00           C
+HETATM  297  CZ2 LAA A  57      34.354  18.913  15.856  1.00  0.00           C
+HETATM  298  CH  LAA A  57      34.910  20.058  15.404  1.00  0.00           C
+HETATM  299 Cl17 LAA A  57      34.094  20.900  14.088  1.00  0.00         CCl
+ATOM    300  N   ALA A  58      40.438  17.221  19.708  1.00  0.00           N
+ATOM    301  CA  ALA A  58      41.558  17.373  20.568  1.00  0.00           C
+ATOM    302  C   ALA A  58      42.796  16.698  20.109  1.00  0.00           C
+ATOM    303  O   ALA A  58      43.887  17.122  20.542  1.00  0.00           O
+ATOM    304  CB  ALA A  58      41.231  16.959  21.965  1.00  0.00           C
+HETATM  305  N   LAA A  59      42.721  15.680  19.314  1.00  0.00           N
+HETATM  306  CD1 LAA A  59      43.859  15.059  18.742  1.00  0.00           C
+HETATM  307  CG  LAA A  59      43.688  15.008  17.255  1.00  0.00           C
+HETATM  308  NB  LAA A  59      43.679  16.371  16.629  1.00  0.00           N
+HETATM  309  CA  LAA A  59      44.967  17.003  16.565  1.00  0.00           C
+HETATM  310  C   LAA A  59      45.162  18.344  17.061  1.00  0.00           C
+HETATM  311  O   LAA A  59      46.251  18.912  16.949  1.00  0.00           O
+HETATM  312  CE1 LAA A  59      44.012  13.672  19.272  1.00  0.00           C
+HETATM  313  SG  LAA A  59      42.744  16.546  15.300  1.00  0.00           S
+HETATM  314  OD1 LAA A  59      41.427  16.209  15.628  1.00  0.00           O
+HETATM  315  OD2 LAA A  59      43.054  17.839  14.792  1.00  0.00           O
+HETATM  316  CD2 LAA A  59      43.392  15.423  14.151  1.00  0.00           C
+HETATM  317  CE2 LAA A  59      44.419  15.774  13.355  1.00  0.00           C
+HETATM  318  CE3 LAA A  59      42.842  14.121  14.035  1.00  0.00           C
+HETATM  319  CZ1 LAA A  59      44.967  14.815  12.475  1.00  0.00           C
+HETATM  320  CZ2 LAA A  59      43.366  13.222  13.163  1.00  0.00           C
+HETATM  321  CH  LAA A  59      44.441  13.581  12.429  1.00  0.00           C
+HETATM  322 Cl17 LAA A  59      45.079  12.406  11.281  1.00  0.00         CCl
+ATOM    323  N   ALA A  60      44.209  19.038  17.655  1.00  0.00           N
+ATOM    324  CA  ALA A  60      44.432  20.376  18.079  1.00  0.00           C
+ATOM    325  C   ALA A  60      45.308  20.519  19.267  1.00  0.00           C
+ATOM    326  O   ALA A  60      45.891  21.610  19.434  1.00  0.00           O
+ATOM    327  CB  ALA A  60      43.144  21.098  18.297  1.00  0.00           C
+HETATM  328  N   LAA A  61      45.420  19.543  20.109  1.00  0.00           N
+HETATM  329  CD1 LAA A  61      46.324  19.562  21.200  1.00  0.00           C
+HETATM  330  CG  LAA A  61      47.178  18.332  21.143  1.00  0.00           C
+HETATM  331  NB  LAA A  61      48.075  18.310  19.941  1.00  0.00           N
+HETATM  332  CA  LAA A  61      49.192  19.208  20.018  1.00  0.00           C
+HETATM  333  C   LAA A  61      49.473  20.136  18.949  1.00  0.00           C
+HETATM  334  O   LAA A  61      50.467  20.866  18.982  1.00  0.00           O
+HETATM  335  CE1 LAA A  61      45.576  19.587  22.491  1.00  0.00           C
+HETATM  336  SG  LAA A  61      48.403  16.835  19.317  1.00  0.00           S
+HETATM  337  OD1 LAA A  61      47.198  16.214  18.972  1.00  0.00           O
+HETATM  338  OD2 LAA A  61      49.408  17.060  18.334  1.00  0.00           O
+HETATM  339  CD2 LAA A  61      49.189  15.974  20.600  1.00  0.00           C
+HETATM  340  CE2 LAA A  61      50.516  16.083  20.785  1.00  0.00           C
+HETATM  341  CE3 LAA A  61      48.437  15.141  21.466  1.00  0.00           C
+HETATM  342  CZ1 LAA A  61      51.116  15.422  21.879  1.00  0.00           C
+HETATM  343  CZ2 LAA A  61      49.035  14.491  22.495  1.00  0.00           C
+HETATM  344  CH  LAA A  61      50.357  14.677  22.698  1.00  0.00           C
+HETATM  345 Cl17 LAA A  61      51.115  13.793  24.022  1.00  0.00         CCl
+ATOM    346  N   ALA A  62      48.702  20.265  17.884  1.00  0.00           N
+ATOM    347  CA  ALA A  62      49.047  21.153  16.831  1.00  0.00           C
+ATOM    348  C   ALA A  62      48.888  22.593  17.148  1.00  0.00           C
+ATOM    349  O   ALA A  62      49.553  23.414  16.482  1.00  0.00           O
+ATOM    350  CB  ALA A  62      48.315  20.816  15.575  1.00  0.00           C
+ATOM    351  OXT ALA A  62      48.110  22.900  18.050  1.00  0.00           O
+ENDMDL
+CONECT    3    2    4    6
+CONECT   11   12   10   24
+CONECT   10   11    9
+CONECT    7    8   13    6
+CONECT   17   18   14   19
+CONECT   13    7
+CONECT   18   17   20
+CONECT   19   17   21
+CONECT    8    9    7
+CONECT   22   23   21   20
+CONECT   20   22   18
+CONECT   21   22   19
+CONECT   23   22
+CONECT    6    7    3
+CONECT    9   10    8   14
+CONECT   12   11
+CONECT   15   14
+CONECT   16   14
+CONECT   14   15    9   16   17
+CONECT   26   25   27   29
+CONECT   24   11   25
+CONECT   34   47   33   35
+CONECT   33   32   34
+CONECT   30   31   29   36
+CONECT   40   37   42   41
+CONECT   36   30
+CONECT   41   40   43
+CONECT   42   40   44
+CONECT   31   32   30
+CONECT   45   46   43   44
+CONECT   43   45   41
+CONECT   44   45   42
+CONECT   46   45
+CONECT   29   26   30
+CONECT   32   37   33   31
+CONECT   35   34
+CONECT   38   37
+CONECT   39   37
+CONECT   37   40   39   32   38
+CONECT   49   50   52   48
+CONECT   47   48   34
+CONECT   57   58   56   70
+CONECT   56   55   57
+CONECT   53   59   52   54
+CONECT   63   64   60   65
+CONECT   59   53
+CONECT   64   63   66
+CONECT   65   63   67
+CONECT   54   53   55
+CONECT   68   69   67   66
+CONECT   66   64   68
+CONECT   67   65   68
+CONECT   69   68
+CONECT   52   49   53
+CONECT   55   60   54   56
+CONECT   58   57
+CONECT   61   60
+CONECT   62   60
+CONECT   60   63   62   61   55
+CONECT   72   75   71   73
+CONECT   70   57   71
+CONECT   80   81   79   93
+CONECT   79   80   78
+CONECT   76   82   75   77
+CONECT   86   88   87   83
+CONECT   82   76
+CONECT   87   89   86
+CONECT   88   90   86
+CONECT   77   76   78
+CONECT   91   92   90   89
+CONECT   89   87   91
+CONECT   90   88   91
+CONECT   92   91
+CONECT   75   76   72
+CONECT   78   83   79   77
+CONECT   81   80
+CONECT   84   83
+CONECT   85   83
+CONECT   83   84   85   78   86
+CONECT   95   98   94   96
+CONECT   93   80   94
+CONECT  103  116  104  102
+CONECT  102  103  101
+CONECT   99  105  100   98
+CONECT  109  110  106  111
+CONECT  105   99
+CONECT  110  109  112
+CONECT  111  113  109
+CONECT  100   99  101
+CONECT  114  115  113  112
+CONECT  112  110  114
+CONECT  113  114  111
+CONECT  115  114
+CONECT   98   99   95
+CONECT  101  106  100  102
+CONECT  104  103
+CONECT  107  106
+CONECT  108  106
+CONECT  106  109  107  108  101
+CONECT  118  119  121  117
+CONECT  116  117  103
+CONECT  126  127  125  139
+CONECT  125  124  126
+CONECT  122  121  123  128
+CONECT  132  134  129  133
+CONECT  128  122
+CONECT  133  135  132
+CONECT  134  136  132
+CONECT  123  124  122
+CONECT  137  136  135  138
+CONECT  135  137  133
+CONECT  136  134  137
+CONECT  138  137
+CONECT  121  122  118
+CONECT  124  123  125  129
+CONECT  127  126
+CONECT  130  129
+CONECT  131  129
+CONECT  129  124  130  131  132
+CONECT  141  144  140  142
+CONECT  139  126  140
+CONECT  149  150  148  162
+CONECT  148  147  149
+CONECT  145  146  151  144
+CONECT  155  156  157  152
+CONECT  151  145
+CONECT  156  155  158
+CONECT  157  155  159
+CONECT  146  147  145
+CONECT  160  158  159  161
+CONECT  158  156  160
+CONECT  159  157  160
+CONECT  161  160
+CONECT  144  145  141
+CONECT  147  148  146  152
+CONECT  150  149
+CONECT  153  152
+CONECT  154  152
+CONECT  152  155  154  147  153
+CONECT  164  167  163  165
+CONECT  162  149  163
+CONECT  172  185  173  171
+CONECT  171  170  172
+CONECT  168  174  167  169
+CONECT  178  180  179  175
+CONECT  174  168
+CONECT  179  181  178
+CONECT  180  182  178
+CONECT  169  168  170
+CONECT  183  181  184  182
+CONECT  181  183  179
+CONECT  182  183  180
+CONECT  184  183
+CONECT  167  168  164
+CONECT  170  175  171  169
+CONECT  173  172
+CONECT  176  175
+CONECT  177  175
+CONECT  175  176  177  178  170
+CONECT  187  186  188  190
+CONECT  185  186  172
+CONECT  195  208  194  196
+CONECT  194  195  193
+CONECT  191  197  192  190
+CONECT  201  202  203  198
+CONECT  197  191
+CONECT  202  201  204
+CONECT  203  201  205
+CONECT  192  191  193
+CONECT  206  205  207  204
+CONECT  204  202  206
+CONECT  205  203  206
+CONECT  207  206
+CONECT  190  187  191
+CONECT  193  192  194  198
+CONECT  196  195
+CONECT  199  198
+CONECT  200  198
+CONECT  198  201  193  200  199
+CONECT  210  209  211  213
+CONECT  208  209  195
+CONECT  218  219  231  217
+CONECT  217  216  218
+CONECT  214  215  213  220
+CONECT  224  221  225  226
+CONECT  220  214
+CONECT  225  227  224
+CONECT  226  228  224
+CONECT  215  214  216
+CONECT  229  230  227  228
+CONECT  227  229  225
+CONECT  228  229  226
+CONECT  230  229
+CONECT  213  214  210
+CONECT  216  215  217  221
+CONECT  219  218
+CONECT  222  221
+CONECT  223  221
+CONECT  221  222  223  216  224
+CONECT  233  232  234  236
+CONECT  231  232  218
+CONECT  241  254  242  240
+CONECT  240  239  241
+CONECT  237  238  236  243
+CONECT  247  244  248  249
+CONECT  243  237
+CONECT  248  250  247
+CONECT  249  251  247
+CONECT  238  237  239
+CONECT  252  253  251  250
+CONECT  250  252  248
+CONECT  251  252  249
+CONECT  253  252
+CONECT  236  237  233
+CONECT  239  238  240  244
+CONECT  242  241
+CONECT  245  244
+CONECT  246  244
+CONECT  244  239  246  247  245
+CONECT  256  257  255  259
+CONECT  254  255  241
+CONECT  264  263  277  265
+CONECT  263  264  262
+CONECT  260  266  261  259
+CONECT  270  271  267  272
+CONECT  266  260
+CONECT  271  270  273
+CONECT  272  270  274
+CONECT  261  262  260
+CONECT  275  276  273  274
+CONECT  273  275  271
+CONECT  274  275  272
+CONECT  276  275
+CONECT  259  256  260
+CONECT  262  263  261  267
+CONECT  265  264
+CONECT  268  267
+CONECT  269  267
+CONECT  267  268  269  270  262
+CONECT  279  278  280  282
+CONECT  277  264  278
+CONECT  287  288  300  286
+CONECT  286  287  285
+CONECT  283  289  284  282
+CONECT  293  290  294  295
+CONECT  289  283
+CONECT  294  293  296
+CONECT  295  293  297
+CONECT  284  283  285
+CONECT  298  296  299  297
+CONECT  296  298  294
+CONECT  297  298  295
+CONECT  299  298
+CONECT  282  279  283
+CONECT  285  290  284  286
+CONECT  288  287
+CONECT  291  290
+CONECT  292  290
+CONECT  290  293  292  291  285
+CONECT  302  305  301  303
+CONECT  300  287  301
+CONECT  310  323  311  309
+CONECT  309  310  308
+CONECT  306  312  305  307
+CONECT  316  313  317  318
+CONECT  312  306
+CONECT  317  319  316
+CONECT  318  320  316
+CONECT  307  306  308
+CONECT  321  320  322  319
+CONECT  319  321  317
+CONECT  320  321  318
+CONECT  322  321
+CONECT  305  302  306
+CONECT  308  313  307  309
+CONECT  311  310
+CONECT  314  313
+CONECT  315  313
+CONECT  313  314  315  316  308
+CONECT  325  328  326  324
+CONECT  323  324  310
+CONECT  333  346  334  332
+CONECT  332  333  331
+CONECT  329  335  328  330
+CONECT  339  341  340  336
+CONECT  335  329
+CONECT  340  342  339
+CONECT  341  339  343
+CONECT  330  331  329
+CONECT  344  345  342  343
+CONECT  342  344  340
+CONECT  343  341  344
+CONECT  345  344
+CONECT  328  329  325
+CONECT  331  336  330  332
+CONECT  334  333
+CONECT  337  336
+CONECT  338  336
+CONECT  336  339  338  337  331
+CONECT  346  347  333
+END

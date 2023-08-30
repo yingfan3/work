@@ -1,0 +1,457 @@
+No protocol specified
+No protocol specified
+
+CPPTRAJ: Trajectory Analysis. V6.18.1 (AmberTools) MPI
+    ___  ___  ___  ___
+     | \/ | \/ | \/ | 
+    _|_/\_|_/\_|_/\_|_
+
+| Running on 1 processes.
+| Date/time: 07/28/23 14:36:34
+| Available memory: 501.860 GB
+
+INPUT: Reading input from 'in.cpptraj'
+  [parm ../0.traj/AA_noWAT.prmtop]
+	Reading '../0.traj/AA_noWAT.prmtop' as Amber Topology
+	Radius Set: modified Bondi radii (mbondi)
+  [trajin ../0.traj/MD_free/nowater_1.nc 1 last]
+	Reading '../0.traj/MD_free/nowater_1.nc' as Amber NetCDF
+  [angle Ang11_Res1-2 :1@CA :1@C :2@N out Ang11.agr mass]
+    ANGLE: [:1@CA]-[:1@C]-[:2@N]
+	Using center of mass of atoms in masks.
+  [angle Ang11_Res3-4 :3@CA :3@C :4@N out Ang11.agr mass]
+    ANGLE: [:3@CA]-[:3@C]-[:4@N]
+	Using center of mass of atoms in masks.
+  [angle Ang11_Res5-6 :5@CA :5@C :6@N out Ang11.agr mass]
+    ANGLE: [:5@CA]-[:5@C]-[:6@N]
+	Using center of mass of atoms in masks.
+  [angle Ang11_Res7-8 :7@CA :7@C :8@N out Ang11.agr mass]
+    ANGLE: [:7@CA]-[:7@C]-[:8@N]
+	Using center of mass of atoms in masks.
+  [angle Ang11_Res9-10 :9@CA :9@C :10@N out Ang11.agr mass]
+    ANGLE: [:9@CA]-[:9@C]-[:10@N]
+	Using center of mass of atoms in masks.
+  [angle Ang11_Res11-12 :11@CA :11@C :12@N out Ang11.agr mass]
+    ANGLE: [:11@CA]-[:11@C]-[:12@N]
+	Using center of mass of atoms in masks.
+  [angle Ang11_Res13-14 :13@CA :13@C :14@N out Ang11.agr mass]
+    ANGLE: [:13@CA]-[:13@C]-[:14@N]
+	Using center of mass of atoms in masks.
+  [angle Ang11_Res15-16 :15@CA :15@C :16@N out Ang11.agr mass]
+    ANGLE: [:15@CA]-[:15@C]-[:16@N]
+	Using center of mass of atoms in masks.
+  [angle Ang12_Res2-3 :2@CA :2@C :3@N out Ang12.agr mass]
+    ANGLE: [:2@CA]-[:2@C]-[:3@N]
+	Using center of mass of atoms in masks.
+  [angle Ang12_Res4-5 :4@CA :4@C :5@N out Ang12.agr mass]
+    ANGLE: [:4@CA]-[:4@C]-[:5@N]
+	Using center of mass of atoms in masks.
+  [angle Ang12_Res6-7 :6@CA :6@C :7@N out Ang12.agr mass]
+    ANGLE: [:6@CA]-[:6@C]-[:7@N]
+	Using center of mass of atoms in masks.
+  [angle Ang12_Res8-9 :8@CA :8@C :9@N out Ang12.agr mass]
+    ANGLE: [:8@CA]-[:8@C]-[:9@N]
+	Using center of mass of atoms in masks.
+  [angle Ang12_Res10-11 :10@CA :10@C :11@N out Ang12.agr mass]
+    ANGLE: [:10@CA]-[:10@C]-[:11@N]
+	Using center of mass of atoms in masks.
+  [angle Ang12_Res12-13 :12@CA :12@C :13@N out Ang12.agr mass]
+    ANGLE: [:12@CA]-[:12@C]-[:13@N]
+	Using center of mass of atoms in masks.
+  [angle Ang12_Res14-15 :14@CA :14@C :15@N out Ang12.agr mass]
+    ANGLE: [:14@CA]-[:14@C]-[:15@N]
+	Using center of mass of atoms in masks.
+  [angle Ang12_Res16-17 :16@CA :16@C :17@N out Ang12.agr mass]
+    ANGLE: [:16@CA]-[:16@C]-[:17@N]
+	Using center of mass of atoms in masks.
+  [angle Ang21_Res1-2 :1@C :2@N :2@CD1 out Ang21.agr mass]
+    ANGLE: [:1@C]-[:2@N]-[:2@CD1]
+	Using center of mass of atoms in masks.
+  [angle Ang21_Res3-4 :3@C :4@N :4@CD1 out Ang21.agr mass]
+    ANGLE: [:3@C]-[:4@N]-[:4@CD1]
+	Using center of mass of atoms in masks.
+  [angle Ang21_Res5-6 :5@C :6@N :6@CD1 out Ang21.agr mass]
+    ANGLE: [:5@C]-[:6@N]-[:6@CD1]
+	Using center of mass of atoms in masks.
+  [angle Ang21_Res7-8 :7@C :8@N :8@CD1 out Ang21.agr mass]
+    ANGLE: [:7@C]-[:8@N]-[:8@CD1]
+	Using center of mass of atoms in masks.
+  [angle Ang21_Res9-10 :9@C :10@N :10@CD1 out Ang21.agr mass]
+    ANGLE: [:9@C]-[:10@N]-[:10@CD1]
+	Using center of mass of atoms in masks.
+  [angle Ang21_Res11-12 :11@C :12@N :12@CD1 out Ang21.agr mass]
+    ANGLE: [:11@C]-[:12@N]-[:12@CD1]
+	Using center of mass of atoms in masks.
+  [angle Ang21_Res13-14 :13@C :14@N :14@CD1 out Ang21.agr mass]
+    ANGLE: [:13@C]-[:14@N]-[:14@CD1]
+	Using center of mass of atoms in masks.
+  [angle Ang21_Res15-16 :15@C :16@N :16@CD1 out Ang21.agr mass]
+    ANGLE: [:15@C]-[:16@N]-[:16@CD1]
+	Using center of mass of atoms in masks.
+  [angle Ang22_Res2-3 :2@C :3@N :3@CA out Ang22.agr mass]
+    ANGLE: [:2@C]-[:3@N]-[:3@CA]
+	Using center of mass of atoms in masks.
+  [angle Ang22_Res4-5 :4@C :5@N :5@CA out Ang22.agr mass]
+    ANGLE: [:4@C]-[:5@N]-[:5@CA]
+	Using center of mass of atoms in masks.
+  [angle Ang22_Res6-7 :6@C :7@N :7@CA out Ang22.agr mass]
+    ANGLE: [:6@C]-[:7@N]-[:7@CA]
+	Using center of mass of atoms in masks.
+  [angle Ang22_Res8-9 :8@C :9@N :9@CA out Ang22.agr mass]
+    ANGLE: [:8@C]-[:9@N]-[:9@CA]
+	Using center of mass of atoms in masks.
+  [angle Ang22_Res10-11 :10@C :11@N :11@CA out Ang22.agr mass]
+    ANGLE: [:10@C]-[:11@N]-[:11@CA]
+	Using center of mass of atoms in masks.
+  [angle Ang22_Res12-13 :12@C :13@N :13@CA out Ang22.agr mass]
+    ANGLE: [:12@C]-[:13@N]-[:13@CA]
+	Using center of mass of atoms in masks.
+  [angle Ang22_Res14-15 :14@C :15@N :15@CA out Ang22.agr mass]
+    ANGLE: [:14@C]-[:15@N]-[:15@CA]
+	Using center of mass of atoms in masks.
+  [angle Ang22_Res16-17 :16@C :17@N :17@CA out Ang22.agr mass]
+    ANGLE: [:16@C]-[:17@N]-[:17@CA]
+	Using center of mass of atoms in masks.
+  [angle Ang3_Res2 :2@N :2@CD1 :2@CG out Ang3.agr mass]
+    ANGLE: [:2@N]-[:2@CD1]-[:2@CG]
+	Using center of mass of atoms in masks.
+  [angle Ang3_Res4 :4@N :4@CD1 :4@CG out Ang3.agr mass]
+    ANGLE: [:4@N]-[:4@CD1]-[:4@CG]
+	Using center of mass of atoms in masks.
+  [angle Ang3_Res6 :6@N :6@CD1 :6@CG out Ang3.agr mass]
+    ANGLE: [:6@N]-[:6@CD1]-[:6@CG]
+	Using center of mass of atoms in masks.
+  [angle Ang3_Res8 :8@N :8@CD1 :8@CG out Ang3.agr mass]
+    ANGLE: [:8@N]-[:8@CD1]-[:8@CG]
+	Using center of mass of atoms in masks.
+  [angle Ang3_Res10 :10@N :10@CD1 :10@CG out Ang3.agr mass]
+    ANGLE: [:10@N]-[:10@CD1]-[:10@CG]
+	Using center of mass of atoms in masks.
+  [angle Ang3_Res12 :12@N :12@CD1 :12@CG out Ang3.agr mass]
+    ANGLE: [:12@N]-[:12@CD1]-[:12@CG]
+	Using center of mass of atoms in masks.
+  [angle Ang3_Res14 :14@N :14@CD1 :14@CG out Ang3.agr mass]
+    ANGLE: [:14@N]-[:14@CD1]-[:14@CG]
+	Using center of mass of atoms in masks.
+  [angle Ang3_Res16 :16@N :16@CD1 :16@CG out Ang3.agr mass]
+    ANGLE: [:16@N]-[:16@CD1]-[:16@CG]
+	Using center of mass of atoms in masks.
+  [angle Ang4_Res2 :2@CD1 :2@CG :2@NB out Ang4.agr mass]
+    ANGLE: [:2@CD1]-[:2@CG]-[:2@NB]
+	Using center of mass of atoms in masks.
+  [angle Ang4_Res4 :4@CD1 :4@CG :4@NB out Ang4.agr mass]
+    ANGLE: [:4@CD1]-[:4@CG]-[:4@NB]
+	Using center of mass of atoms in masks.
+  [angle Ang4_Res6 :6@CD1 :6@CG :6@NB out Ang4.agr mass]
+    ANGLE: [:6@CD1]-[:6@CG]-[:6@NB]
+	Using center of mass of atoms in masks.
+  [angle Ang4_Res8 :8@CD1 :8@CG :8@NB out Ang4.agr mass]
+    ANGLE: [:8@CD1]-[:8@CG]-[:8@NB]
+	Using center of mass of atoms in masks.
+  [angle Ang4_Res10 :10@CD1 :10@CG :10@NB out Ang4.agr mass]
+    ANGLE: [:10@CD1]-[:10@CG]-[:10@NB]
+	Using center of mass of atoms in masks.
+  [angle Ang4_Res12 :12@CD1 :12@CG :12@NB out Ang4.agr mass]
+    ANGLE: [:12@CD1]-[:12@CG]-[:12@NB]
+	Using center of mass of atoms in masks.
+  [angle Ang4_Res14 :14@CD1 :14@CG :14@NB out Ang4.agr mass]
+    ANGLE: [:14@CD1]-[:14@CG]-[:14@NB]
+	Using center of mass of atoms in masks.
+  [angle Ang4_Res16 :16@CD1 :16@CG :16@NB out Ang4.agr mass]
+    ANGLE: [:16@CD1]-[:16@CG]-[:16@NB]
+	Using center of mass of atoms in masks.
+  [angle Ang5_Res2 :2@CG :2@NB :2@CA out Ang5.agr mass]
+    ANGLE: [:2@CG]-[:2@NB]-[:2@CA]
+	Using center of mass of atoms in masks.
+  [angle Ang5_Res4 :4@CG :4@NB :4@CA out Ang5.agr mass]
+    ANGLE: [:4@CG]-[:4@NB]-[:4@CA]
+	Using center of mass of atoms in masks.
+  [angle Ang5_Res6 :6@CG :6@NB :6@CA out Ang5.agr mass]
+    ANGLE: [:6@CG]-[:6@NB]-[:6@CA]
+	Using center of mass of atoms in masks.
+  [angle Ang5_Res8 :8@CG :8@NB :8@CA out Ang5.agr mass]
+    ANGLE: [:8@CG]-[:8@NB]-[:8@CA]
+	Using center of mass of atoms in masks.
+  [angle Ang5_Res10 :10@CG :10@NB :10@CA out Ang5.agr mass]
+    ANGLE: [:10@CG]-[:10@NB]-[:10@CA]
+	Using center of mass of atoms in masks.
+  [angle Ang5_Res12 :12@CG :12@NB :12@CA out Ang5.agr mass]
+    ANGLE: [:12@CG]-[:12@NB]-[:12@CA]
+	Using center of mass of atoms in masks.
+  [angle Ang5_Res14 :14@CG :14@NB :14@CA out Ang5.agr mass]
+    ANGLE: [:14@CG]-[:14@NB]-[:14@CA]
+	Using center of mass of atoms in masks.
+  [angle Ang5_Res16 :16@CG :16@NB :16@CA out Ang5.agr mass]
+    ANGLE: [:16@CG]-[:16@NB]-[:16@CA]
+	Using center of mass of atoms in masks.
+  [angle Ang6_Res2 :2@NB :2@CA :2@C out Ang6.agr mass]
+    ANGLE: [:2@NB]-[:2@CA]-[:2@C]
+	Using center of mass of atoms in masks.
+  [angle Ang6_Res4 :4@NB :4@CA :4@C out Ang6.agr mass]
+    ANGLE: [:4@NB]-[:4@CA]-[:4@C]
+	Using center of mass of atoms in masks.
+  [angle Ang6_Res6 :6@NB :6@CA :6@C out Ang6.agr mass]
+    ANGLE: [:6@NB]-[:6@CA]-[:6@C]
+	Using center of mass of atoms in masks.
+  [angle Ang6_Res8 :8@NB :8@CA :8@C out Ang6.agr mass]
+    ANGLE: [:8@NB]-[:8@CA]-[:8@C]
+	Using center of mass of atoms in masks.
+  [angle Ang6_Res10 :10@NB :10@CA :10@C out Ang6.agr mass]
+    ANGLE: [:10@NB]-[:10@CA]-[:10@C]
+	Using center of mass of atoms in masks.
+  [angle Ang6_Res12 :12@NB :12@CA :12@C out Ang6.agr mass]
+    ANGLE: [:12@NB]-[:12@CA]-[:12@C]
+	Using center of mass of atoms in masks.
+  [angle Ang6_Res14 :14@NB :14@CA :14@C out Ang6.agr mass]
+    ANGLE: [:14@NB]-[:14@CA]-[:14@C]
+	Using center of mass of atoms in masks.
+  [angle Ang6_Res16 :16@NB :16@CA :16@C out Ang6.agr mass]
+    ANGLE: [:16@NB]-[:16@CA]-[:16@C]
+	Using center of mass of atoms in masks.
+---------- RUN BEGIN -------------------------------------------------
+
+PARAMETER FILES (1 total):
+ 0: AA_noWAT.prmtop, 341 atoms, 17 res, box: Orthorhombic, 1 mol
+
+INPUT TRAJECTORIES (1 total):
+ 0: 'nowater_1.nc' is a NetCDF (NetCDF3) AMBER trajectory with coordinates, time, box, Parm AA_noWAT.prmtop (Orthorhombic box) (reading 65093 of 65093)
+  Coordinate processing will occur on 65093 frames.
+
+PARALLEL INFO:
+  Process 0 will handle 65093 frames.
+.....................................................
+ACTION SETUP FOR PARM 'AA_noWAT.prmtop' (64 actions):
+  0: [angle Ang11_Res1-2 :1@CA :1@C :2@N out Ang11.agr mass]
+	 [:1@CA](1) [:1@C](1) [:2@N](1)
+  1: [angle Ang11_Res3-4 :3@CA :3@C :4@N out Ang11.agr mass]
+	 [:3@CA](1) [:3@C](1) [:4@N](1)
+  2: [angle Ang11_Res5-6 :5@CA :5@C :6@N out Ang11.agr mass]
+	 [:5@CA](1) [:5@C](1) [:6@N](1)
+  3: [angle Ang11_Res7-8 :7@CA :7@C :8@N out Ang11.agr mass]
+	 [:7@CA](1) [:7@C](1) [:8@N](1)
+  4: [angle Ang11_Res9-10 :9@CA :9@C :10@N out Ang11.agr mass]
+	 [:9@CA](1) [:9@C](1) [:10@N](1)
+  5: [angle Ang11_Res11-12 :11@CA :11@C :12@N out Ang11.agr mass]
+	 [:11@CA](1) [:11@C](1) [:12@N](1)
+  6: [angle Ang11_Res13-14 :13@CA :13@C :14@N out Ang11.agr mass]
+	 [:13@CA](1) [:13@C](1) [:14@N](1)
+  7: [angle Ang11_Res15-16 :15@CA :15@C :16@N out Ang11.agr mass]
+	 [:15@CA](1) [:15@C](1) [:16@N](1)
+  8: [angle Ang12_Res2-3 :2@CA :2@C :3@N out Ang12.agr mass]
+	 [:2@CA](1) [:2@C](1) [:3@N](1)
+  9: [angle Ang12_Res4-5 :4@CA :4@C :5@N out Ang12.agr mass]
+	 [:4@CA](1) [:4@C](1) [:5@N](1)
+  10: [angle Ang12_Res6-7 :6@CA :6@C :7@N out Ang12.agr mass]
+	 [:6@CA](1) [:6@C](1) [:7@N](1)
+  11: [angle Ang12_Res8-9 :8@CA :8@C :9@N out Ang12.agr mass]
+	 [:8@CA](1) [:8@C](1) [:9@N](1)
+  12: [angle Ang12_Res10-11 :10@CA :10@C :11@N out Ang12.agr mass]
+	 [:10@CA](1) [:10@C](1) [:11@N](1)
+  13: [angle Ang12_Res12-13 :12@CA :12@C :13@N out Ang12.agr mass]
+	 [:12@CA](1) [:12@C](1) [:13@N](1)
+  14: [angle Ang12_Res14-15 :14@CA :14@C :15@N out Ang12.agr mass]
+	 [:14@CA](1) [:14@C](1) [:15@N](1)
+  15: [angle Ang12_Res16-17 :16@CA :16@C :17@N out Ang12.agr mass]
+	 [:16@CA](1) [:16@C](1) [:17@N](1)
+  16: [angle Ang21_Res1-2 :1@C :2@N :2@CD1 out Ang21.agr mass]
+	 [:1@C](1) [:2@N](1) [:2@CD1](1)
+  17: [angle Ang21_Res3-4 :3@C :4@N :4@CD1 out Ang21.agr mass]
+	 [:3@C](1) [:4@N](1) [:4@CD1](1)
+  18: [angle Ang21_Res5-6 :5@C :6@N :6@CD1 out Ang21.agr mass]
+	 [:5@C](1) [:6@N](1) [:6@CD1](1)
+  19: [angle Ang21_Res7-8 :7@C :8@N :8@CD1 out Ang21.agr mass]
+	 [:7@C](1) [:8@N](1) [:8@CD1](1)
+  20: [angle Ang21_Res9-10 :9@C :10@N :10@CD1 out Ang21.agr mass]
+	 [:9@C](1) [:10@N](1) [:10@CD1](1)
+  21: [angle Ang21_Res11-12 :11@C :12@N :12@CD1 out Ang21.agr mass]
+	 [:11@C](1) [:12@N](1) [:12@CD1](1)
+  22: [angle Ang21_Res13-14 :13@C :14@N :14@CD1 out Ang21.agr mass]
+	 [:13@C](1) [:14@N](1) [:14@CD1](1)
+  23: [angle Ang21_Res15-16 :15@C :16@N :16@CD1 out Ang21.agr mass]
+	 [:15@C](1) [:16@N](1) [:16@CD1](1)
+  24: [angle Ang22_Res2-3 :2@C :3@N :3@CA out Ang22.agr mass]
+	 [:2@C](1) [:3@N](1) [:3@CA](1)
+  25: [angle Ang22_Res4-5 :4@C :5@N :5@CA out Ang22.agr mass]
+	 [:4@C](1) [:5@N](1) [:5@CA](1)
+  26: [angle Ang22_Res6-7 :6@C :7@N :7@CA out Ang22.agr mass]
+	 [:6@C](1) [:7@N](1) [:7@CA](1)
+  27: [angle Ang22_Res8-9 :8@C :9@N :9@CA out Ang22.agr mass]
+	 [:8@C](1) [:9@N](1) [:9@CA](1)
+  28: [angle Ang22_Res10-11 :10@C :11@N :11@CA out Ang22.agr mass]
+	 [:10@C](1) [:11@N](1) [:11@CA](1)
+  29: [angle Ang22_Res12-13 :12@C :13@N :13@CA out Ang22.agr mass]
+	 [:12@C](1) [:13@N](1) [:13@CA](1)
+  30: [angle Ang22_Res14-15 :14@C :15@N :15@CA out Ang22.agr mass]
+	 [:14@C](1) [:15@N](1) [:15@CA](1)
+  31: [angle Ang22_Res16-17 :16@C :17@N :17@CA out Ang22.agr mass]
+	 [:16@C](1) [:17@N](1) [:17@CA](1)
+  32: [angle Ang3_Res2 :2@N :2@CD1 :2@CG out Ang3.agr mass]
+	 [:2@N](1) [:2@CD1](1) [:2@CG](1)
+  33: [angle Ang3_Res4 :4@N :4@CD1 :4@CG out Ang3.agr mass]
+	 [:4@N](1) [:4@CD1](1) [:4@CG](1)
+  34: [angle Ang3_Res6 :6@N :6@CD1 :6@CG out Ang3.agr mass]
+	 [:6@N](1) [:6@CD1](1) [:6@CG](1)
+  35: [angle Ang3_Res8 :8@N :8@CD1 :8@CG out Ang3.agr mass]
+	 [:8@N](1) [:8@CD1](1) [:8@CG](1)
+  36: [angle Ang3_Res10 :10@N :10@CD1 :10@CG out Ang3.agr mass]
+	 [:10@N](1) [:10@CD1](1) [:10@CG](1)
+  37: [angle Ang3_Res12 :12@N :12@CD1 :12@CG out Ang3.agr mass]
+	 [:12@N](1) [:12@CD1](1) [:12@CG](1)
+  38: [angle Ang3_Res14 :14@N :14@CD1 :14@CG out Ang3.agr mass]
+	 [:14@N](1) [:14@CD1](1) [:14@CG](1)
+  39: [angle Ang3_Res16 :16@N :16@CD1 :16@CG out Ang3.agr mass]
+	 [:16@N](1) [:16@CD1](1) [:16@CG](1)
+  40: [angle Ang4_Res2 :2@CD1 :2@CG :2@NB out Ang4.agr mass]
+	 [:2@CD1](1) [:2@CG](1) [:2@NB](1)
+  41: [angle Ang4_Res4 :4@CD1 :4@CG :4@NB out Ang4.agr mass]
+	 [:4@CD1](1) [:4@CG](1) [:4@NB](1)
+  42: [angle Ang4_Res6 :6@CD1 :6@CG :6@NB out Ang4.agr mass]
+	 [:6@CD1](1) [:6@CG](1) [:6@NB](1)
+  43: [angle Ang4_Res8 :8@CD1 :8@CG :8@NB out Ang4.agr mass]
+	 [:8@CD1](1) [:8@CG](1) [:8@NB](1)
+  44: [angle Ang4_Res10 :10@CD1 :10@CG :10@NB out Ang4.agr mass]
+	 [:10@CD1](1) [:10@CG](1) [:10@NB](1)
+  45: [angle Ang4_Res12 :12@CD1 :12@CG :12@NB out Ang4.agr mass]
+	 [:12@CD1](1) [:12@CG](1) [:12@NB](1)
+  46: [angle Ang4_Res14 :14@CD1 :14@CG :14@NB out Ang4.agr mass]
+	 [:14@CD1](1) [:14@CG](1) [:14@NB](1)
+  47: [angle Ang4_Res16 :16@CD1 :16@CG :16@NB out Ang4.agr mass]
+	 [:16@CD1](1) [:16@CG](1) [:16@NB](1)
+  48: [angle Ang5_Res2 :2@CG :2@NB :2@CA out Ang5.agr mass]
+	 [:2@CG](1) [:2@NB](1) [:2@CA](1)
+  49: [angle Ang5_Res4 :4@CG :4@NB :4@CA out Ang5.agr mass]
+	 [:4@CG](1) [:4@NB](1) [:4@CA](1)
+  50: [angle Ang5_Res6 :6@CG :6@NB :6@CA out Ang5.agr mass]
+	 [:6@CG](1) [:6@NB](1) [:6@CA](1)
+  51: [angle Ang5_Res8 :8@CG :8@NB :8@CA out Ang5.agr mass]
+	 [:8@CG](1) [:8@NB](1) [:8@CA](1)
+  52: [angle Ang5_Res10 :10@CG :10@NB :10@CA out Ang5.agr mass]
+	 [:10@CG](1) [:10@NB](1) [:10@CA](1)
+  53: [angle Ang5_Res12 :12@CG :12@NB :12@CA out Ang5.agr mass]
+	 [:12@CG](1) [:12@NB](1) [:12@CA](1)
+  54: [angle Ang5_Res14 :14@CG :14@NB :14@CA out Ang5.agr mass]
+	 [:14@CG](1) [:14@NB](1) [:14@CA](1)
+  55: [angle Ang5_Res16 :16@CG :16@NB :16@CA out Ang5.agr mass]
+	 [:16@CG](1) [:16@NB](1) [:16@CA](1)
+  56: [angle Ang6_Res2 :2@NB :2@CA :2@C out Ang6.agr mass]
+	 [:2@NB](1) [:2@CA](1) [:2@C](1)
+  57: [angle Ang6_Res4 :4@NB :4@CA :4@C out Ang6.agr mass]
+	 [:4@NB](1) [:4@CA](1) [:4@C](1)
+  58: [angle Ang6_Res6 :6@NB :6@CA :6@C out Ang6.agr mass]
+	 [:6@NB](1) [:6@CA](1) [:6@C](1)
+  59: [angle Ang6_Res8 :8@NB :8@CA :8@C out Ang6.agr mass]
+	 [:8@NB](1) [:8@CA](1) [:8@C](1)
+  60: [angle Ang6_Res10 :10@NB :10@CA :10@C out Ang6.agr mass]
+	 [:10@NB](1) [:10@CA](1) [:10@C](1)
+  61: [angle Ang6_Res12 :12@NB :12@CA :12@C out Ang6.agr mass]
+	 [:12@NB](1) [:12@CA](1) [:12@C](1)
+  62: [angle Ang6_Res14 :14@NB :14@CA :14@C out Ang6.agr mass]
+	 [:14@NB](1) [:14@CA](1) [:14@C](1)
+  63: [angle Ang6_Res16 :16@NB :16@CA :16@C out Ang6.agr mass]
+	 [:16@NB](1) [:16@CA](1) [:16@C](1)
+
+BEGIN PARALLEL TRAJECTORY PROCESSING:
+ 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% Complete.
+TIME: Rank 0 throughput= 27984.0263 frames / second.
+TIME: Avg. throughput= 27983.5331 frames / second.
+
+ACTION OUTPUT:
+TIME: Analyses took 0.0000 seconds.
+
+DATASETS (64 total):
+	Ang11_Res1-2 "Ang11_Res1-2" (double, angle), size is 65093 (520.744 kB)
+	Ang11_Res3-4 "Ang11_Res3-4" (double, angle), size is 65093 (520.744 kB)
+	Ang11_Res5-6 "Ang11_Res5-6" (double, angle), size is 65093 (520.744 kB)
+	Ang11_Res7-8 "Ang11_Res7-8" (double, angle), size is 65093 (520.744 kB)
+	Ang11_Res9-10 "Ang11_Res9-10" (double, angle), size is 65093 (520.744 kB)
+	Ang11_Res11-12 "Ang11_Res11-12" (double, angle), size is 65093 (520.744 kB)
+	Ang11_Res13-14 "Ang11_Res13-14" (double, angle), size is 65093 (520.744 kB)
+	Ang11_Res15-16 "Ang11_Res15-16" (double, angle), size is 65093 (520.744 kB)
+	Ang12_Res2-3 "Ang12_Res2-3" (double, angle), size is 65093 (520.744 kB)
+	Ang12_Res4-5 "Ang12_Res4-5" (double, angle), size is 65093 (520.744 kB)
+	Ang12_Res6-7 "Ang12_Res6-7" (double, angle), size is 65093 (520.744 kB)
+	Ang12_Res8-9 "Ang12_Res8-9" (double, angle), size is 65093 (520.744 kB)
+	Ang12_Res10-11 "Ang12_Res10-11" (double, angle), size is 65093 (520.744 kB)
+	Ang12_Res12-13 "Ang12_Res12-13" (double, angle), size is 65093 (520.744 kB)
+	Ang12_Res14-15 "Ang12_Res14-15" (double, angle), size is 65093 (520.744 kB)
+	Ang12_Res16-17 "Ang12_Res16-17" (double, angle), size is 65093 (520.744 kB)
+	Ang21_Res1-2 "Ang21_Res1-2" (double, angle), size is 65093 (520.744 kB)
+	Ang21_Res3-4 "Ang21_Res3-4" (double, angle), size is 65093 (520.744 kB)
+	Ang21_Res5-6 "Ang21_Res5-6" (double, angle), size is 65093 (520.744 kB)
+	Ang21_Res7-8 "Ang21_Res7-8" (double, angle), size is 65093 (520.744 kB)
+	Ang21_Res9-10 "Ang21_Res9-10" (double, angle), size is 65093 (520.744 kB)
+	Ang21_Res11-12 "Ang21_Res11-12" (double, angle), size is 65093 (520.744 kB)
+	Ang21_Res13-14 "Ang21_Res13-14" (double, angle), size is 65093 (520.744 kB)
+	Ang21_Res15-16 "Ang21_Res15-16" (double, angle), size is 65093 (520.744 kB)
+	Ang22_Res2-3 "Ang22_Res2-3" (double, angle), size is 65093 (520.744 kB)
+	Ang22_Res4-5 "Ang22_Res4-5" (double, angle), size is 65093 (520.744 kB)
+	Ang22_Res6-7 "Ang22_Res6-7" (double, angle), size is 65093 (520.744 kB)
+	Ang22_Res8-9 "Ang22_Res8-9" (double, angle), size is 65093 (520.744 kB)
+	Ang22_Res10-11 "Ang22_Res10-11" (double, angle), size is 65093 (520.744 kB)
+	Ang22_Res12-13 "Ang22_Res12-13" (double, angle), size is 65093 (520.744 kB)
+	Ang22_Res14-15 "Ang22_Res14-15" (double, angle), size is 65093 (520.744 kB)
+	Ang22_Res16-17 "Ang22_Res16-17" (double, angle), size is 65093 (520.744 kB)
+	Ang3_Res2 "Ang3_Res2" (double, angle), size is 65093 (520.744 kB)
+	Ang3_Res4 "Ang3_Res4" (double, angle), size is 65093 (520.744 kB)
+	Ang3_Res6 "Ang3_Res6" (double, angle), size is 65093 (520.744 kB)
+	Ang3_Res8 "Ang3_Res8" (double, angle), size is 65093 (520.744 kB)
+	Ang3_Res10 "Ang3_Res10" (double, angle), size is 65093 (520.744 kB)
+	Ang3_Res12 "Ang3_Res12" (double, angle), size is 65093 (520.744 kB)
+	Ang3_Res14 "Ang3_Res14" (double, angle), size is 65093 (520.744 kB)
+	Ang3_Res16 "Ang3_Res16" (double, angle), size is 65093 (520.744 kB)
+	Ang4_Res2 "Ang4_Res2" (double, angle), size is 65093 (520.744 kB)
+	Ang4_Res4 "Ang4_Res4" (double, angle), size is 65093 (520.744 kB)
+	Ang4_Res6 "Ang4_Res6" (double, angle), size is 65093 (520.744 kB)
+	Ang4_Res8 "Ang4_Res8" (double, angle), size is 65093 (520.744 kB)
+	Ang4_Res10 "Ang4_Res10" (double, angle), size is 65093 (520.744 kB)
+	Ang4_Res12 "Ang4_Res12" (double, angle), size is 65093 (520.744 kB)
+	Ang4_Res14 "Ang4_Res14" (double, angle), size is 65093 (520.744 kB)
+	Ang4_Res16 "Ang4_Res16" (double, angle), size is 65093 (520.744 kB)
+	Ang5_Res2 "Ang5_Res2" (double, angle), size is 65093 (520.744 kB)
+	Ang5_Res4 "Ang5_Res4" (double, angle), size is 65093 (520.744 kB)
+	Ang5_Res6 "Ang5_Res6" (double, angle), size is 65093 (520.744 kB)
+	Ang5_Res8 "Ang5_Res8" (double, angle), size is 65093 (520.744 kB)
+	Ang5_Res10 "Ang5_Res10" (double, angle), size is 65093 (520.744 kB)
+	Ang5_Res12 "Ang5_Res12" (double, angle), size is 65093 (520.744 kB)
+	Ang5_Res14 "Ang5_Res14" (double, angle), size is 65093 (520.744 kB)
+	Ang5_Res16 "Ang5_Res16" (double, angle), size is 65093 (520.744 kB)
+	Ang6_Res2 "Ang6_Res2" (double, angle), size is 65093 (520.744 kB)
+	Ang6_Res4 "Ang6_Res4" (double, angle), size is 65093 (520.744 kB)
+	Ang6_Res6 "Ang6_Res6" (double, angle), size is 65093 (520.744 kB)
+	Ang6_Res8 "Ang6_Res8" (double, angle), size is 65093 (520.744 kB)
+	Ang6_Res10 "Ang6_Res10" (double, angle), size is 65093 (520.744 kB)
+	Ang6_Res12 "Ang6_Res12" (double, angle), size is 65093 (520.744 kB)
+	Ang6_Res14 "Ang6_Res14" (double, angle), size is 65093 (520.744 kB)
+	Ang6_Res16 "Ang6_Res16" (double, angle), size is 65093 (520.744 kB)
+    Total data set memory usage is at least 33.328 MB
+
+DATAFILES (8 total):
+  Ang11.agr (Grace File):  Ang11_Res1-2 Ang11_Res3-4 Ang11_Res5-6 Ang11_Res7-8 Ang11_Res9-10 Ang11_Res11-12 Ang11_Res13-14 Ang11_Res15-16
+  Ang12.agr (Grace File):  Ang12_Res2-3 Ang12_Res4-5 Ang12_Res6-7 Ang12_Res8-9 Ang12_Res10-11 Ang12_Res12-13 Ang12_Res14-15 Ang12_Res16-17
+  Ang21.agr (Grace File):  Ang21_Res1-2 Ang21_Res3-4 Ang21_Res5-6 Ang21_Res7-8 Ang21_Res9-10 Ang21_Res11-12 Ang21_Res13-14 Ang21_Res15-16
+  Ang22.agr (Grace File):  Ang22_Res2-3 Ang22_Res4-5 Ang22_Res6-7 Ang22_Res8-9 Ang22_Res10-11 Ang22_Res12-13 Ang22_Res14-15 Ang22_Res16-17
+  Ang3.agr (Grace File):  Ang3_Res2 Ang3_Res4 Ang3_Res6 Ang3_Res8 Ang3_Res10 Ang3_Res12 Ang3_Res14 Ang3_Res16
+  Ang4.agr (Grace File):  Ang4_Res2 Ang4_Res4 Ang4_Res6 Ang4_Res8 Ang4_Res10 Ang4_Res12 Ang4_Res14 Ang4_Res16
+  Ang5.agr (Grace File):  Ang5_Res2 Ang5_Res4 Ang5_Res6 Ang5_Res8 Ang5_Res10 Ang5_Res12 Ang5_Res14 Ang5_Res16
+  Ang6.agr (Grace File):  Ang6_Res2 Ang6_Res4 Ang6_Res6 Ang6_Res8 Ang6_Res10 Ang6_Res12 Ang6_Res14 Ang6_Res16
+
+RUN TIMING:
+TIME:		Init               : 0.0018 s (  0.01%)
+TIME:		Trajectory Process : 2.3261 s ( 14.90%)
+TIME:		Data Set Sync      : 0.0000 s (  0.00%)
+TIME:		Action Post        : 0.0000 s (  0.00%)
+TIME:		Analysis           : 0.0000 s (  0.00%)
+TIME:		Data File Write    : 13.2846 s ( 85.09%)
+TIME:		Other              : 0.0002 s (  0.00%)
+TIME:	Run Total 15.6128 s
+---------- RUN END ---------------------------------------------------
+TIME: Total execution time: 15.6545 seconds.
+--------------------------------------------------------------------------------
+To cite CPPTRAJ use:
+Daniel R. Roe and Thomas E. Cheatham, III, "PTRAJ and CPPTRAJ: Software for
+  Processing and Analysis of Molecular Dynamics Trajectory Data". J. Chem.
+  Theory Comput., 2013, 9 (7), pp 3084-3095.
+Daniel R. Roe and Thomas E. Cheatham, III, "Parallelization of CPPTRAJ enables
+  large scale analysis of molecular dynamics trajectory data". J. Comp.
+  Chem., 2018, DOI: 10.1002/jcc25382.
+

@@ -1,0 +1,787 @@
+# Grace project file
+#
+@version 50125
+@page size 190, 147
+@page scroll 5%
+@page inout 5%
+@link page off
+@map font 0 to "Times-Roman", "Times-Roman"
+@map font 1 to "Times-Italic", "Times-Italic"
+@map font 2 to "Times-Bold", "Times-Bold"
+@map font 3 to "Times-BoldItalic", "Times-BoldItalic"
+@map font 4 to "Helvetica", "Helvetica"
+@map font 5 to "Helvetica-Oblique", "Helvetica-Oblique"
+@map font 6 to "Helvetica-Bold", "Helvetica-Bold"
+@map font 7 to "Helvetica-BoldOblique", "Helvetica-BoldOblique"
+@map font 8 to "Courier", "Courier"
+@map font 9 to "Courier-Oblique", "Courier-Oblique"
+@map font 10 to "Courier-Bold", "Courier-Bold"
+@map font 11 to "Courier-BoldOblique", "Courier-BoldOblique"
+@map font 12 to "Symbol", "Symbol"
+@map font 13 to "ZapfDingbats", "ZapfDingbats"
+@map color 0 to (255, 255, 255), "white"
+@map color 1 to (0, 0, 0), "black"
+@map color 2 to (255, 0, 0), "red"
+@map color 3 to (0, 255, 0), "green"
+@map color 4 to (0, 0, 255), "blue"
+@map color 5 to (255, 255, 0), "yellow"
+@map color 6 to (188, 143, 143), "brown"
+@map color 7 to (220, 220, 220), "grey"
+@map color 8 to (148, 0, 211), "violet"
+@map color 9 to (0, 255, 255), "cyan"
+@map color 10 to (255, 0, 255), "magenta"
+@map color 11 to (255, 165, 0), "orange"
+@map color 12 to (114, 33, 188), "indigo"
+@map color 13 to (103, 7, 72), "maroon"
+@map color 14 to (64, 224, 208), "turquoise"
+@map color 15 to (0, 139, 0), "green4"
+@reference date 0
+@date wrap off
+@date wrap year 1950
+@default linewidth 1.0
+@default linestyle 1
+@default color 1
+@default pattern 1
+@default font 0
+@default char size 1.000000
+@default symbol size 1.000000
+@default sformat "%.8g"
+@background color 0
+@page background fill on
+@timestamp off
+@timestamp 0.03, 0.03
+@timestamp color 1
+@timestamp rot 0
+@timestamp font 0
+@timestamp char size 1.000000
+@timestamp def "Mon Aug 14 15:24:52 2023"
+@r0 off
+@link r0 to g0
+@r0 type above
+@r0 linestyle 1
+@r0 linewidth 1.0
+@r0 color 1
+@r0 line 0, 0, 0, 0
+@r1 off
+@link r1 to g0
+@r1 type above
+@r1 linestyle 1
+@r1 linewidth 1.0
+@r1 color 1
+@r1 line 0, 0, 0, 0
+@r2 off
+@link r2 to g0
+@r2 type above
+@r2 linestyle 1
+@r2 linewidth 1.0
+@r2 color 1
+@r2 line 0, 0, 0, 0
+@r3 off
+@link r3 to g0
+@r3 type above
+@r3 linestyle 1
+@r3 linewidth 1.0
+@r3 color 1
+@r3 line 0, 0, 0, 0
+@r4 off
+@link r4 to g0
+@r4 type above
+@r4 linestyle 1
+@r4 linewidth 1.0
+@r4 color 1
+@r4 line 0, 0, 0, 0
+@g0 on
+@g0 hidden false
+@g0 type XY
+@g0 stacked false
+@g0 bar hgap 0.000000
+@g0 fixedpoint off
+@g0 fixedpoint type 0
+@g0 fixedpoint xy 0.000000, 0.000000
+@g0 fixedpoint format general general
+@g0 fixedpoint prec 6, 6
+@with g0
+@    world 0, 0, 5000, 600
+@    stack world 0, 0, 0, 0
+@    znorm 1
+@    view 0.150000, 0.150000, 1.150000, 0.850000
+@    title ""
+@    title font 0
+@    title size 1.500000
+@    title color 1
+@    subtitle ""
+@    subtitle font 0
+@    subtitle size 1.000000
+@    subtitle color 1
+@    xaxes scale Normal
+@    yaxes scale Normal
+@    xaxes invert off
+@    yaxes invert off
+@    xaxis  on
+@    xaxis  type zero false
+@    xaxis  offset 0.000000 , 0.000000
+@    xaxis  bar on
+@    xaxis  bar color 1
+@    xaxis  bar linestyle 1
+@    xaxis  bar linewidth 1.0
+@    xaxis  label ""
+@    xaxis  label layout para
+@    xaxis  label place auto
+@    xaxis  label char size 1.000000
+@    xaxis  label font 0
+@    xaxis  label color 1
+@    xaxis  label place normal
+@    xaxis  tick on
+@    xaxis  tick major 1000
+@    xaxis  tick minor ticks 1
+@    xaxis  tick default 6
+@    xaxis  tick place rounded true
+@    xaxis  tick in
+@    xaxis  tick major size 1.000000
+@    xaxis  tick major color 1
+@    xaxis  tick major linewidth 1.0
+@    xaxis  tick major linestyle 1
+@    xaxis  tick major grid off
+@    xaxis  tick minor color 1
+@    xaxis  tick minor linewidth 1.0
+@    xaxis  tick minor linestyle 1
+@    xaxis  tick minor grid off
+@    xaxis  tick minor size 0.500000
+@    xaxis  ticklabel on
+@    xaxis  ticklabel format general
+@    xaxis  ticklabel prec 5
+@    xaxis  ticklabel formula ""
+@    xaxis  ticklabel append ""
+@    xaxis  ticklabel prepend ""
+@    xaxis  ticklabel angle 0
+@    xaxis  ticklabel skip 0
+@    xaxis  ticklabel stagger 0
+@    xaxis  ticklabel place normal
+@    xaxis  ticklabel offset auto
+@    xaxis  ticklabel offset 0.000000 , 0.010000
+@    xaxis  ticklabel start type auto
+@    xaxis  ticklabel start 0.000000
+@    xaxis  ticklabel stop type auto
+@    xaxis  ticklabel stop 0.000000
+@    xaxis  ticklabel char size 1.000000
+@    xaxis  ticklabel font 0
+@    xaxis  ticklabel color 1
+@    xaxis  tick place both
+@    xaxis  tick spec type none
+@    yaxis  on
+@    yaxis  type zero false
+@    yaxis  offset 0.000000 , 0.000000
+@    yaxis  bar on
+@    yaxis  bar color 1
+@    yaxis  bar linestyle 1
+@    yaxis  bar linewidth 1.0
+@    yaxis  label ""
+@    yaxis  label layout para
+@    yaxis  label place auto
+@    yaxis  label char size 1.000000
+@    yaxis  label font 0
+@    yaxis  label color 1
+@    yaxis  label place normal
+@    yaxis  tick on
+@    yaxis  tick major 100
+@    yaxis  tick minor ticks 1
+@    yaxis  tick default 6
+@    yaxis  tick place rounded true
+@    yaxis  tick in
+@    yaxis  tick major size 1.000000
+@    yaxis  tick major color 1
+@    yaxis  tick major linewidth 1.0
+@    yaxis  tick major linestyle 1
+@    yaxis  tick major grid off
+@    yaxis  tick minor color 1
+@    yaxis  tick minor linewidth 1.0
+@    yaxis  tick minor linestyle 1
+@    yaxis  tick minor grid off
+@    yaxis  tick minor size 0.500000
+@    yaxis  ticklabel on
+@    yaxis  ticklabel format general
+@    yaxis  ticklabel prec 5
+@    yaxis  ticklabel formula ""
+@    yaxis  ticklabel append ""
+@    yaxis  ticklabel prepend ""
+@    yaxis  ticklabel angle 0
+@    yaxis  ticklabel skip 0
+@    yaxis  ticklabel stagger 0
+@    yaxis  ticklabel place normal
+@    yaxis  ticklabel offset auto
+@    yaxis  ticklabel offset 0.000000 , 0.010000
+@    yaxis  ticklabel start type auto
+@    yaxis  ticklabel start 0.000000
+@    yaxis  ticklabel stop type auto
+@    yaxis  ticklabel stop 0.000000
+@    yaxis  ticklabel char size 1.000000
+@    yaxis  ticklabel font 0
+@    yaxis  ticklabel color 1
+@    yaxis  tick place both
+@    yaxis  tick spec type none
+@    altxaxis  off
+@    altyaxis  off
+@    legend on
+@    legend loctype view
+@    legend 0.85, 0.8
+@    legend box color 1
+@    legend box pattern 1
+@    legend box linewidth 1.0
+@    legend box linestyle 1
+@    legend box fill color 0
+@    legend box fill pattern 1
+@    legend font 0
+@    legend char size 1.000000
+@    legend color 1
+@    legend length 4
+@    legend vgap 1
+@    legend hgap 1
+@    legend invert false
+@    frame type 0
+@    frame linestyle 1
+@    frame linewidth 1.0
+@    frame color 1
+@    frame pattern 1
+@    frame background color 0
+@    frame background pattern 0
+@    s0 hidden false
+@    s0 type xy
+@    s0 symbol 0
+@    s0 symbol size 1.000000
+@    s0 symbol color 1
+@    s0 symbol pattern 1
+@    s0 symbol fill color 1
+@    s0 symbol fill pattern 0
+@    s0 symbol linewidth 1.0
+@    s0 symbol linestyle 1
+@    s0 symbol char 65
+@    s0 symbol char font 0
+@    s0 symbol skip 0
+@    s0 line type 1
+@    s0 line linestyle 1
+@    s0 line linewidth 1.0
+@    s0 line color 1
+@    s0 line pattern 1
+@    s0 baseline type 0
+@    s0 baseline off
+@    s0 dropline off
+@    s0 fill type 0
+@    s0 fill rule 0
+@    s0 fill color 1
+@    s0 fill pattern 1
+@    s0 avalue off
+@    s0 avalue type 2
+@    s0 avalue char size 1.000000
+@    s0 avalue font 0
+@    s0 avalue color 1
+@    s0 avalue rot 0
+@    s0 avalue format general
+@    s0 avalue prec 3
+@    s0 avalue prepend ""
+@    s0 avalue append ""
+@    s0 avalue offset 0.000000 , 0.000000
+@    s0 errorbar on
+@    s0 errorbar place both
+@    s0 errorbar color 1
+@    s0 errorbar pattern 1
+@    s0 errorbar size 1.000000
+@    s0 errorbar linewidth 1.0
+@    s0 errorbar linestyle 1
+@    s0 errorbar riser linewidth 1.0
+@    s0 errorbar riser linestyle 1
+@    s0 errorbar riser clip off
+@    s0 errorbar riser clip length 0.100000
+@    s0 comment "summary.TEMP"
+@    s0 legend  ""
+@target G0.S0
+@type xy
+0 0
+10 503.12
+20 498.92
+30 499.09
+40 498.91
+50 502.56
+60 498.48
+70 500.1
+80 499.84
+90 495.54
+100 500.89
+110 499.87
+120 499.09
+130 499.18
+140 499.17
+150 503.44
+160 497.66
+170 501.96
+180 497.79
+190 495.98
+200 498.89
+210 497.93
+220 494.59
+230 503.11
+240 495.82
+250 496.59
+260 495.02
+270 497.34
+280 499.42
+290 493.97
+300 498.62
+310 495.39
+320 497.55
+330 498.08
+340 501.19
+350 496.21
+360 494.42
+370 494.61
+380 494.08
+390 499.46
+400 495.07
+410 495.84
+420 498.57
+430 495.68
+440 496.06
+450 492.87
+460 492.84
+470 495.49
+480 493.09
+490 494.66
+500 495.92
+510 492.47
+520 492.82
+530 493.82
+540 494.29
+550 494.44
+560 493.12
+570 487.89
+580 495.34
+590 492.1
+600 492.51
+610 493.24
+620 496.5
+630 495.28
+640 494.56
+650 490.12
+660 497.05
+670 488.04
+680 495.74
+690 492.71
+700 491.36
+710 495.45
+720 494.02
+730 490.96
+740 490.18
+750 496.49
+760 495.38
+770 488.38
+780 491.87
+790 490.24
+800 491.5
+810 488.49
+820 491.71
+830 493.52
+840 491.43
+850 490.91
+860 489.41
+870 488.25
+880 492.11
+890 489.57
+900 486.11
+910 488.15
+920 486.3
+930 489.86
+940 487.53
+950 488.78
+960 490.96
+970 491.36
+980 489.71
+990 490.96
+1000 488.81
+1010 488.31
+1020 491.29
+1030 489.81
+1040 484.68
+1050 492.26
+1060 485.31
+1070 489.96
+1080 489.02
+1090 487.04
+1100 485.89
+1110 485.28
+1120 487.94
+1130 488.74
+1140 488.01
+1150 487.59
+1160 485.51
+1170 486.63
+1180 483.78
+1190 484.47
+1200 485.15
+1210 487.4
+1220 486.68
+1230 488.2
+1240 486.14
+1250 487.11
+1260 487.46
+1270 481.95
+1280 483.05
+1290 483.82
+1300 485.87
+1310 481
+1320 482.23
+1330 489.65
+1340 484.01
+1350 481.05
+1360 480.15
+1370 485.16
+1380 481.74
+1390 481.89
+1400 485.98
+1410 484.52
+1420 482.34
+1430 485.27
+1440 480.14
+1450 484.92
+1460 482.61
+1470 484.39
+1480 485.2
+1490 481.02
+1500 483.4
+1510 482.49
+1520 481.42
+1530 479.97
+1540 482.73
+1550 479.26
+1560 480.28
+1570 485.29
+1580 481.21
+1590 480.91
+1600 481.51
+1610 478.35
+1620 481.16
+1630 477.56
+1640 481.04
+1650 479.8
+1660 482.21
+1670 484.1
+1680 483.57
+1690 473.83
+1700 477.32
+1710 482.55
+1720 477.38
+1730 479.88
+1740 477.74
+1750 475.29
+1760 481.41
+1770 482.05
+1780 482.36
+1790 480.33
+1800 481.15
+1810 476.03
+1820 478.56
+1830 481.5
+1840 478.88
+1850 478.77
+1860 474.54
+1870 477.57
+1880 473.43
+1890 480.19
+1900 478.51
+1910 473.49
+1920 473.81
+1930 474.2
+1940 477.88
+1950 476.32
+1960 477.21
+1970 473.47
+1980 472.84
+1990 477.19
+2000 474.95
+2010 475.59
+2020 479.44
+2030 475.04
+2040 476.03
+2050 473.06
+2060 473.2
+2070 477.83
+2080 476.44
+2090 476.21
+2100 471.92
+2110 472.49
+2120 478.1
+2130 470.69
+2140 473.09
+2150 476.22
+2160 479.14
+2170 470.97
+2180 474.35
+2190 475.55
+2200 473.22
+2210 476.17
+2220 472.88
+2230 477.48
+2240 471.03
+2250 470.64
+2260 473.55
+2270 469.93
+2280 471.36
+2290 472.84
+2300 472.43
+2310 469.03
+2320 474.24
+2330 473.4
+2340 472.32
+2350 469.83
+2360 471.21
+2370 472.24
+2380 471.26
+2390 469.61
+2400 471.11
+2410 468.05
+2420 468.11
+2430 466.53
+2440 470.75
+2450 474.05
+2460 468.6
+2470 467.54
+2480 471.14
+2490 469.08
+2500 469.64
+2510 470.5
+2520 467.95
+2530 468.69
+2540 469.87
+2550 469.92
+2560 468.53
+2570 468.26
+2580 466.1
+2590 467.78
+2600 470.1
+2610 470.01
+2620 469.83
+2630 468.25
+2640 465.68
+2650 468.58
+2660 464.29
+2670 464.99
+2680 468.58
+2690 466.12
+2700 465.26
+2710 465.55
+2720 467.8
+2730 460.45
+2740 466
+2750 465.93
+2760 466.35
+2770 468.21
+2780 464.61
+2790 468.04
+2800 465.54
+2810 463.52
+2820 462.35
+2830 465.3
+2840 462.19
+2850 463.43
+2860 463.51
+2870 468.28
+2880 466
+2890 465.55
+2900 463.16
+2910 463.03
+2920 464.64
+2930 463.71
+2940 466.86
+2950 463.66
+2960 462.94
+2970 467.57
+2980 460.45
+2990 462.47
+3000 464.35
+3010 462.79
+3020 462.54
+3030 464.37
+3040 461.5
+3050 460.1
+3060 462.59
+3070 461.87
+3080 459.16
+3090 463.76
+3100 461.38
+3110 457.67
+3120 458.37
+3130 462.29
+3140 462.91
+3150 459.15
+3160 463.59
+3170 465.16
+3180 460.31
+3190 462.44
+3200 456.94
+3210 463.3
+3220 458.83
+3230 460.61
+3240 458.7
+3250 459.64
+3260 456.24
+3270 460.01
+3280 460.62
+3290 461.87
+3300 459.62
+3310 462.26
+3320 460.87
+3330 460.33
+3340 458.13
+3350 461.58
+3360 458.46
+3370 461.38
+3380 457.1
+3390 458.77
+3400 461.14
+3410 454.28
+3420 462.34
+3430 458.8
+3440 459.07
+3450 457.64
+3460 459.54
+3470 458.3
+3480 458.48
+3490 458.04
+3500 455.43
+3510 458.18
+3520 460.05
+3530 455.64
+3540 457.91
+3550 459.96
+3560 458.25
+3570 458.91
+3580 461.16
+3590 458.53
+3600 456.85
+3610 455.06
+3620 456.99
+3630 455.62
+3640 455.99
+3650 449.09
+3660 452.6
+3670 456.42
+3680 456.27
+3690 456.29
+3700 451.26
+3710 456.12
+3720 456.16
+3730 456.38
+3740 449.64
+3750 455.46
+3760 454.11
+3770 454.1
+3780 452.19
+3790 454.83
+3800 455
+3810 450.26
+3820 451.76
+3830 450.66
+3840 453.57
+3850 452.58
+3860 451.57
+3870 449.61
+3880 451.52
+3890 448.36
+3900 451.21
+3910 452.17
+3920 452.07
+3930 449.62
+3940 452.51
+3950 450.64
+3960 449.92
+3970 455.45
+3980 452.46
+3990 451.2
+4000 449.81
+4010 450.18
+4020 449.4
+4030 450.57
+4040 451.66
+4050 450.23
+4060 450.8
+4070 447.35
+4080 450.42
+4090 451.12
+4100 449.51
+4110 449.38
+4120 447.46
+4130 448.74
+4140 453.37
+4150 449.34
+4160 448.24
+4170 449.84
+4180 451.39
+4190 446.75
+4200 448.61
+4210 450.1
+4220 448.28
+4230 449.59
+4240 447.1
+4250 448.73
+4260 449.22
+4270 450.21
+4280 450.45
+4290 449.61
+4300 447.63
+4310 446.87
+4320 442.98
+4330 449.6
+4340 445.74
+4350 448.09
+4360 447.54
+4370 446.57
+4380 446.12
+4390 447.16
+4400 444.96
+4410 443.49
+4420 447.1
+4430 441.32
+4440 444.92
+4450 445.12
+4460 444.01
+4470 444.14
+4480 442.12
+4490 446.03
+4500 445.04
+4510 441.34
+4520 444.92
+4530 440.63
+4540 445
+4550 444.9
+4560 442.36
+4570 445.12
+4580 444.25
+4590 447.27
+4600 443.11
+4610 444.2
+4620 443.66
+4630 447.93
+4640 443.54
+4650 442.55
+4660 444.18
+4670 442.34
+4680 444.86
+4690 440.99
+4700 444.84
+4710 441.67
+4720 441.53
+4730 438.03
+4740 440.89
+4750 439.2
+4760 441.32
+4770 439.67
+4780 441.73
+4790 441.13
+4800 443.02
+4810 443.3
+4820 443.49
+4830 440.99
+4840 443.5
+4850 441.66
+4860 440.63
+4870 438.06
+4880 438.54
+&
